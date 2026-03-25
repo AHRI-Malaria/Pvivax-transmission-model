@@ -1,0 +1,456 @@
+id,parasite_load_asex,parasite_load_gamet,par,gam,number_dissect,number_inf,percent_inf,infect_stat,age,agecat,gender,fever,site,pinfect,sex,study
+1,,,2.502759254,66.05,20,0,0,Non infectious,5,< 15 years,Male,No,Adama,0,Male,3
+2,1264,0,182.9710796,12287.9,24,2,8.3,Infectious,5,< 15 years,Male,No,Adama,8.333333333,Male,3
+3,,,37.64082226,478.8,20,0,0,Non infectious,4,< 15 years,Female,No,Adama,0,Female,3
+4,,,7.743472376,306.65,20,0,0,Non infectious,3,< 15 years,Male,No,Adama,0,Male,3
+5,1540,0,1397.373395,91496.5,20,9,45,Infectious,4,< 15 years,Female,No,Adama,45,Female,3
+6,,,2.502759254,20.95,21,0,0,Non infectious,2,< 15 years,Male,No,Adama,0,Male,3
+7,309,0,658.1143368,5381.7,24,0,0,Non infectious,3,< 15 years,Male,No,Adama,0,Male,3
+8,11559,153,10.46502333,52.35,20,0,0,Non infectious,1,< 15 years,Male,No,Adama,0,Male,3
+9,,,100.1782766,1777.25,21,6,28.6,Infectious,3,< 15 years,Female,No,Adama,28.57142857,Female,3
+10,,,22.22037168,434.05,20,0,0,Non infectious,5,< 15 years,Male,No,Adama,0,Male,3
+11,32,0,1751.522843,18825.4,19,6,31.6,Infectious,3,< 15 years,Male,No,Adama,31.57894737,Male,3
+12,,,1.85188762,89.75,16,0,0,Non infectious,10,< 15 years,Male,No,Adama,0,Male,3
+13,111,0,9.001978619,370.65,20,0,0,Non infectious,11,< 15 years,Male,No,Adama,0,Male,3
+14,208,0,3.646906551,70.85,40,0,0,Non infectious,10,< 15 years,Male,No,Adama,0,Male,3
+15,,,7.181822075,30.6,40,0,0,Non infectious,15,>= 15 years,Male,No,Adama,0,Male,3
+16,1126,0,182.9710796,23193.25,20,0,0,Non infectious,14,< 15 years,Female,No,Adama,0,Female,3
+17,569,0,2195.427709,3524.2,17,0,0,Non infectious,12,< 15 years,Male,No,Adama,0,Male,3
+18,6873,0,18077.99545,601638.9,37,5,13.5,Infectious,7,< 15 years,Female,No,Adama,13.51351351,Female,3
+19,48,0,15.24915434,228.85,17,0,0,Non infectious,14,< 15 years,Male,No,Adama,0,Male,3
+20,85,0,658.1143368,1481.65,20,0,0,Non infectious,15,>= 15 years,Male,No,Adama,0,Male,3
+21,74,0,145.9752121,2543.15,20,0,0,Non infectious,12,< 15 years,Female,No,Adama,0,Female,3
+22,1552,0,1202.015994,252285.2,37,11,29.7,Infectious,7,< 15 years,Female,No,Adama,29.72972973,Female,3
+23,,,3.932110799,100.45,21,0,0,Non infectious,7,< 15 years,Male,No,Adama,0,Male,3
+24,282,0,824.9064271,123298.1,20,0,0,Non infectious,8,< 15 years,Male,No,Adama,0,Male,3
+25,,,40.58450131,1498.9,22,0,0,Non infectious,7,< 15 years,Male,No,Adama,0,Male,3
+26,8065,67,13376.60261,1483311,32,28,87.5,Infectious,14,< 15 years,Male,No,Adama,87.5,Male,3
+27,,,3.382388766,197.05,20,0,0,Non infectious,12,< 15 years,Female,No,Adama,0,Female,3
+28,49749,402,26342.42983,668610.4,20,0,0,Non infectious,14,< 15 years,Male,No,Adama,0,Male,3
+29,401,0,3449.259049,4631.7,34,10,29.4,Infectious,11,< 15 years,Male,No,Adama,29.41176471,Male,3
+31,517,0,1397.373395,44885.55,27,22,81.5,Infectious,49,>= 15 years,Female,No,Adama,81.48148148,Female,3
+32,6356.5,10,6299.915248,105916.6,9,1,11.1,Infectious,56,>= 15 years,Male,No,Adama,11.11111111,Male,3
+33,7453,0,86.17302374,754.55,20,0,0,Non infectious,30,>= 15 years,Male,No,Adama,0,Male,3
+34,,,2.152865272,141.95,19,0,0,Non infectious,41,>= 15 years,Female,No,Adama,0,Female,3
+35,966,0,4009.84916,140258.5,20,5,25,Infectious,16,>= 15 years,Female,No,Adama,25,Female,3
+36,14437,324,4661.549064,1759602,41,34,82.9,Infectious,25,>= 15 years,Male,No,Adama,82.92682927,Male,3
+37,1168,237,59.13788291,218910.7,20,1,5,Infectious,18,>= 15 years,Male,No,Adama,5,Male,3
+38,,,16766.7605,431089.1,21,12,57.1,Infectious,22,>= 15 years,Male,No,Adama,57.14285714,Male,3
+39,11813.5,134,60307.04684,35869.3,20,1,5,Infectious,70,>= 15 years,Female,No,Adama,5,Female,3
+40,8453,83,340795.3296,15691.45,7,0,0,Non infectious,25,>= 15 years,Male,No,Adama,0,Male,3
+41,118.5,24,309.9489957,82907.1,28,0,0,Non infectious,22,>= 15 years,Male,No,Adama,0,Male,3
+42,18298,310,18077.99545,996678.9,21,16,76.2,Infectious,37,>= 15 years,Female,No,Adama,76.19047619,Female,3
+43,,,6792.596528,866581.4,25,24,96,Infectious,18,>= 15 years,Male,Yes,Adama,96,Male,3
+44,4663,110,9.001978619,1099.3,19,10,52.6,Infectious,44,>= 15 years,Female,No,Adama,52.63157895,Female,3
+45,,,10671.91825,2422669,24,23,95.8,Infectious,18,>= 15 years,Male,No,Adama,95.83333333,Male,3
+46,,,2967.04128,515919.8,21,3,14.3,Infectious,22,>= 15 years,Male,Yes,Adama,14.28571429,Male,3
+47,11629,0,15550.63218,164017.5,27,0,0,Non infectious,25,>= 15 years,Male,No,Adama,0,Male,3
+48,,,157.3911204,126320.2,28,0,0,Non infectious,20,>= 15 years,Male,No,Adama,0,Male,3
+49,1104.5,350,418.8848765,102606,27,21,77.8,Infectious,27,>= 15 years,Male,No,Adama,77.77777778,Male,3
+50,27903.5,992.5,65023.32505,3846098,26,17,65.4,Infectious,60,>= 15 years,Male,No,Adama,65.38461538,Male,3
+51,,,5842.969175,3057660,40,29,72.5,Infectious,50,>= 15 years,Female,No,Adama,72.5,Female,3
+52,,,3449.259049,394365,19,13,68.4,Infectious,27,>= 15 years,Male,No,Adama,68.42105263,Male,3
+53,11058,234.5,3449.259049,1552908,42,35,83.3,Infectious,45,>= 15 years,Male,No,Adama,83.33333333,Male,3
+54,,,21016.11791,2511870,47,17,35.4,Infectious,18,>= 15 years,Male,No,Adama,36.17021277,Male,3
+55,4539.5,5,3719.006386,141179.7,58,15,25.9,Infectious,25,>= 15 years,Male,No,Adama,25.86206897,Male,3
+56,6541,48,889.417764,157043,24,7,29.2,Infectious,18,>= 15 years,Male,Yes,Adama,29.16666667,Male,3
+57,34735,0,1151,1851,30,0,0,Non infectious,26,>= 15 years,Male,No,Arba Minch,0,Male,1
+58,,,49.8457,2500,30,10,33.3333,Infectious,18,>= 15 years,Male,No,Adama,33.33333333,Male,2
+59,588,0,1.53138,406.532,30,0,0,Non infectious,23,>= 15 years,Male,No,Adama,0,Male,2
+60,10088,457,111.913,38000,30,24,80,Infectious,31,>= 15 years,Female,No,Adama,80,Female,2
+61,512,0,8.66504,1100,30,24,80,Infectious,29,>= 15 years,Male,Yes,Adama,80,Male,2
+62,3200,0,4.86267,414.969,30,1,3.3,Infectious,27,>= 15 years,Male,Yes,Adama,3.333333333,Male,2
+63,7223,0,57.8287,25000,35,0,0,Non infectious,28,>= 15 years,Male,Yes,Adama,0,Male,2
+64,10076,146,3600,71000,34,31,91.2,Infectious,38,>= 15 years,Female,No,Adama,91.17647059,Female,2
+65,1631,0,8.66504,4100,30,0,0,Non infectious,40,>= 15 years,Female,No,Adama,0,Female,2
+66,386,0,182.117,48000,30,0,0,Non infectious,60,>= 15 years,Male,Yes,Adama,0,Male,2
+67,5892,897,98.8823,29000,20,6,30,Infectious,22,>= 15 years,Male,No,Adama,30,Male,2
+68,663,259,127.711,21000,30,6,20,Infectious,19,>= 15 years,Male,Yes,Adama,20,Male,2
+69,2196,0,261.853,29000,29,9,31,Infectious,30,>= 15 years,Male,Yes,Adama,31.03448276,Male,2
+70,24277,600,83.1476,79000,20,12,60,Infectious,25,>= 15 years,Male,No,Adama,60,Male,2
+71,3841,0,186.683,16000,30,2,6.7,Infectious,26,>= 15 years,Male,No,Adama,6.666666667,Male,2
+72,533,0,38.2765,11000,36,9,25,Infectious,33,>= 15 years,Male,Yes,Adama,25,Male,2
+73,27243,0,220.186,25000,30,28,93.3,Infectious,19,>= 15 years,Male,No,Adama,93.33333333,Male,2
+74,9393,0,82.4642,4000,30,16,53.3,Infectious,28,>= 15 years,Male,No,Adama,53.33333333,Male,2
+75,14680,600,2800,47000,30,0,0,Non infectious,30,>= 15 years,Male,Yes,Adama,0,Male,2
+76,11356,0,1200,76000,30,13,43.3,Infectious,8,< 15 years,Female,No,Adama,43.33333333,Female,2
+77,32585,594,7200,47000,30,17,56.7,Infectious,7,< 15 years,Female,Yes,Adama,56.66666667,Female,2
+78,10069,1600,880.926,76000,30,0,0,Non infectious,16,>= 15 years,Female,No,Adama,0,Female,2
+79,20240,0,6100,130000,30,18,60,Infectious,25,>= 15 years,Male,No,Adama,60,Male,2
+80,18507,398,37000,1600000,30,4,13.3,Infectious,12,< 15 years,Male,No,Adama,13.33333333,Male,2
+81,1663,396,2000,84000,30,17,56.7,Infectious,42,>= 15 years,Male,Yes,Adama,56.66666667,Male,2
+82,30969,666,9300,76000,30,8,26.7,Infectious,20,>= 15 years,Male,Yes,Adama,26.66666667,Male,2
+83,8866,157,2200,64000,30,18,60,Infectious,19,>= 15 years,Male,No,Adama,60,Male,2
+84,5269,269,1000,84000,30,24,80,Infectious,14,< 15 years,Female,Yes,Adama,80,Female,2
+85,16528,603,13000,150000,30,12,40,Infectious,30,>= 15 years,Female,No,Adama,40,Female,2
+86,7124,0,196.16,14000,30,0,0,Non infectious,27,>= 15 years,Male,Yes,Adama,0,Male,2
+87,13725,190,3800,32000,32,27,84.4,Infectious,6,< 15 years,Male,Yes,Adama,84.375,Male,2
+88,203,0,291.509,8300,30,0,0,Non infectious,46,>= 15 years,Female,No,Adama,0,Female,2
+89,6368,218,559.509,43000,31,26,83.9,Infectious,21,>= 15 years,Male,No,Adama,83.87096774,Male,2
+90,627,0,13.3092,613.066,30,0,0,Non infectious,38,>= 15 years,Male,No,Adama,0,Male,2
+91,10224,366,1500,430000,30,22,73.3,Infectious,16,>= 15 years,Female,No,Adama,73.33333333,Female,2
+93,17029,262,941.051,38000,30,0,0,Non infectious,30,>= 15 years,Male,Yes,Adama,0,Male,2
+94,1069,0,275.146,5600,30,0,0,Non infectious,37,>= 15 years,Female,No,Adama,0,Female,2
+95,15960,190,268.417,17000,30,0,0,Non infectious,34,>= 15 years,Male,Yes,Adama,0,Male,2
+96,0,475,65.2915,14000,30,5,16.7,Infectious,20,>= 15 years,Male,No,Adama,16.66666667,Male,2
+97,1547,0,27.7426,23000,30,18,60,Infectious,46,>= 15 years,Male,Yes,Adama,60,Male,2
+98,650,72,17.3319,3300,30,4,13.3,Infectious,40,>= 15 years,Male,Yes,Adama,13.33333333,Male,2
+99,4120,0,859.383,19000,30,19,63.3,Infectious,24,>= 15 years,Male,No,Adama,63.33333333,Male,2
+100,16784,0,5500,25000,30,4,13.3,Infectious,18,>= 15 years,Male,Yes,Adama,13.33333333,Male,2
+101,12280,0,429.647,85000,30,0,0,Non infectious,26,>= 15 years,Male,Yes,Adama,0,Male,2
+102,3889,290,638.49,80000,30,25,83.3,Infectious,20,>= 15 years,Male,No,Adama,83.33333333,Male,2
+103,16226,0,1100,87000,30,11,36.7,Infectious,27,>= 15 years,Male,No,Adama,36.66666667,Male,2
+104,4019,0,229.462,5500,24,2,8.3,Infectious,28,>= 15 years,Female,No,Adama,8.333333333,Female,2
+105,6099,0,925.645,4800,30,0,0,Non infectious,21,>= 15 years,Male,Yes,Adama,0,Male,2
+106,15898,0,3000,60000,30,21,70,Infectious,38,>= 15 years,Male,No,Adama,70,Male,2
+107,7883,0,408.89,24000,30,28,93.3,Infectious,53,>= 15 years,Male,No,Adama,93.33333333,Male,2
+108,7400,267,4200,72000,30,0,0,Non infectious,22,>= 15 years,Male,No,Adama,0,Male,2
+109,7168,152,617.757,29000,30,26,86.7,Infectious,19,>= 15 years,Male,No,Adama,86.66666667,Male,2
+110,13009,1033,1900,92000,30,28,93.3,Infectious,30,>= 15 years,Female,Yes,Adama,93.33333333,Female,2
+111,7120,827,2200,320000,30,15,50,Infectious,32,>= 15 years,Male,No,Adama,50,Male,2
+112,17464,600,3200,88000,30,28,93.3,Infectious,11,< 15 years,Female,Yes,Adama,93.33333333,Female,2
+113,7574,615,1300,40000,30,16,53.3,Infectious,15,>= 15 years,Female,Yes,Adama,53.33333333,Female,2
+114,8554,347,486.267,16000,30,11,36.7,Infectious,26,>= 15 years,Male,No,Adama,36.66666667,Male,2
+115,3960,227,659.92,140000,30,0,0,Non infectious,25,>= 15 years,Male,No,Adama,0,Male,2
+116,2068,0,77.8352,190000,30,0,0,Non infectious,31,>= 15 years,Male,No,Adama,0,Male,2
+117,3098,0,57.3534,26000,30,23,76.7,Infectious,40,>= 15 years,Male,No,Adama,76.66666667,Male,2
+118,2258,560,1100,65000,30,14,46.7,Infectious,15,>= 15 years,Female,No,Adama,46.66666667,Female,2
+119,17795,382,103.902,3800,30,12,40,Infectious,12,< 15 years,Male,Yes,Adama,40,Male,2
+120,8040,827,4.36797,19000,30,9,30,Infectious,22,>= 15 years,Male,No,Adama,30,Male,2
+121,392,357,20.6118,32000,30,12,40,Infectious,25,>= 15 years,Male,No,Adama,40,Male,2
+122,1273,304,4.0889,67.6128,30,20,66.7,Infectious,28,>= 15 years,Male,Yes,Adama,66.66666667,Male,2
+123,3653,0,133.092,15000,30,0,0,Non infectious,19,>= 15 years,Male,No,Adama,0,Male,2
+124,10706,597,746.887,310000,30,29,96.7,Infectious,20,>= 15 years,Male,No,Adama,96.66666667,Male,2
+125,38461,152,95.6713,95000,30,18,60,Infectious,14,< 15 years,Male,Yes,Adama,60,Male,2
+126,24824,1200,1300,59000,30,0,0,Non infectious,64,>= 15 years,Male,No,Adama,0,Male,2
+127,14000,995,1100,22000,30,12,40,Infectious,9,< 15 years,Female,No,Adama,40,Female,2
+128,8079,1114,447.747,34000,30,14,46.7,Infectious,42,>= 15 years,Male,No,Adama,46.66666667,Male,2
+129,3603,190,444.067,67000,30,14,46.7,Infectious,39,>= 15 years,Male,No,Adama,46.66666667,Male,2
+130,18876,0,67.0903,40000,30,13,43.3,Infectious,27,>= 15 years,Male,No,Adama,43.33333333,Male,2
+131,30174,600,12000,73000,30,18,60,Infectious,18,>= 15 years,Male,No,Adama,60,Male,2
+132,9233,199,13000,600000,5,0,0,Non infectious,45,>= 15 years,Male,No,Adama,0,Male,2
+133,8627,980,159.589,7300,20,0,0,Non infectious,12,< 15 years,Male,No,Adama,0,Male,2
+134,6000,0,451.457,3100,30,0,0,Non infectious,10,< 15 years,Male,Yes,Adama,0,Male,2
+135,11586,133,325.349,3100,17,13,76.5,Infectious,11,< 15 years,Female,Yes,Adama,76.47058824,Female,2
+136,15698,1024,450.673,140000,30,28,93.3,Infectious,50,>= 15 years,Male,No,Adama,93.33333333,Male,2
+137,9852,114,83.6224,14000,30,28,93.3,Infectious,18,>= 15 years,Male,No,Adama,93.33333333,Male,2
+138,8512,0,24.4714,8600,30,22,73.3,Infectious,28,>= 15 years,Male,No,Adama,73.33333333,Male,2
+139,2348,0,292.771,180000,29,27,93.1,Infectious,23,>= 15 years,Male,No,Adama,93.10344828,Male,2
+140,,,1200,75000,30,28,93.3,Infectious,25,>= 15 years,Male,Yes,Adama,93.33333333,Male,2
+141,15333,173,5300,160000,30,18,60,Infectious,3,< 15 years,Female,No,Adama,60,Female,2
+142,7342,0,141.456,6600,30,6,20,Infectious,20,>= 15 years,Male,No,Adama,20,Male,2
+143,5188,0,665.23,26000,30,26,86.7,Infectious,33,>= 15 years,Male,Yes,Adama,86.66666667,Male,2
+144,8760,341,3300,73000,30,23,76.7,Infectious,32,>= 15 years,Male,Yes,Adama,76.66666667,Male,2
+145,1108,0,9.03462,1600,30,1,3.3,Infectious,28,>= 15 years,Male,No,Adama,3.333333333,Male,2
+146,4454,341,270.095,23000,26,7,26.9,Infectious,18,>= 15 years,Female,Yes,Adama,26.92307692,Female,2
+149,73,0,5.67564,170.807,30,0,0,Non infectious,9,< 15 years,Male,No,Adama,0,Male,2
+150,,,1.41762,63.8601,30,0,0,Non infectious,9,< 15 years,Male,No,Adama,0,Male,2
+153,,,3.06933,13.5949,30,0,0,Non infectious,13,< 15 years,Male,No,Adama,0,Male,2
+162,,,3.94592,127.584,30,0,0,Non infectious,8,< 15 years,Female,No,Adama,0,Female,2
+165,,,4.75661,120.026,30,0,0,Non infectious,6,< 15 years,Male,No,Adama,0,Male,2
+166,78,0,38.5295,937.847,17,0,0,Non infectious,6,< 15 years,Male,No,Adama,0,Male,2
+168,,,21.2289,132.885,30,0,0,Non infectious,6,< 15 years,Male,No,Adama,0,Male,2
+169,,,7.14586,79.8861,30,0,0,Non infectious,6,< 15 years,Male,No,Adama,0,Male,2
+170,,,1.80893,15.5708,30,0,0,Non infectious,10,< 15 years,Female,No,Adama,0,Female,2
+171,,,3.59601,17.0066,28,0,0,Non infectious,10,< 15 years,Female,No,Adama,0,Female,2
+173,,,1.27335,6.40163,30,0,0,Non infectious,15,>= 15 years,Male,No,Adama,0,Male,2
+181,,,4.43941,153.235,50,0,0,Non infectious,19,>= 15 years,Female,No,Adama,0,Female,2
+182,,,3.35672,65.617,50,0,0,Non infectious,19,>= 15 years,Female,No,Adama,0,Female,2
+188,1871,199,3200,300000,48,40,83.3,Infectious,7,< 15 years,Female,No,Adama,83.33333333,Female,2
+189,37,0,3.16622,7.90021,50,0,0,Non infectious,40,>= 15 years,Female,No,Adama,0,Female,2
+194,,,5.87312,233.375,30,0,0,Non infectious,8,< 15 years,Male,No,Adama,0,Male,2
+195,,,16.1238,12.7031,30,0,0,Non infectious,8,< 15 years,Male,No,Adama,0,Male,2
+196,,,11.7601,12.1139,30,0,0,Non infectious,5,< 15 years,Male,No,Adama,0,Male,2
+198,,,1.64464,67.8813,30,0,0,Non infectious,8,< 15 years,Female,No,Adama,0,Female,2
+199,,,165.9860861,11483.26581,30,10,33,Infectious,18,>= 15 years,Male,No,Adama,33.33333333,Male,2
+200,588,0,5.099491612,492.3104702,30,0,0,Non infectious,23,>= 15 years,Male,No,Adama,0,Male,2
+201,10088,457,372.6714858,45472.20981,30,24,80,Infectious,31,>= 15 years,Female,No,Adama,80,Female,2
+202,512,0,28.8545997,1319.557104,30,24,80,Infectious,29,>= 15 years,Male,Yes,Adama,80,Male,2
+203,3200,0,16.19268981,502.5273219,30,1,3,Infectious,27,>= 15 years,Male,Yes,Adama,3.333333333,Male,2
+204,7223,0,192.5696378,29947.48751,35,0,0,Non infectious,28,>= 15 years,Male,Yes,Adama,0,Male,2
+205,10076,146,11931.70505,85957.7155,34,31,91,Infectious,38,>= 15 years,Female,No,Adama,91.17647059,Female,2
+206,1631,0,28.8545997,4913.002799,30,0,0,Non infectious,40,>= 15 years,Female,No,Adama,0,Female,2
+207,663,259,425.2788992,24892.86782,30,6,20,Infectious,19,>= 15 years,Male,Yes,Adama,20,Male,2
+208,2196,0,871.9704995,35295.98005,29,9,31,Infectious,30,>= 15 years,Male,Yes,Adama,31.03448276,Male,2
+209,3841,0,621.6535057,19322.09079,30,2,7,Infectious,26,>= 15 years,Male,No,Adama,6.666666667,Male,2
+210,533,0,127.4607132,13534.12772,36,9,25,Infectious,33,>= 15 years,Male,Yes,Adama,25,Male,2
+211,27243,0,733.2177583,30568.98361,30,28,93,Infectious,19,>= 15 years,Male,No,Adama,93.33333333,Male,2
+212,9393,0,274.605782,4879.479256,30,16,53,Infectious,28,>= 15 years,Male,No,Adama,53.33333333,Male,2
+213,11356,0,4080.869324,92049.24274,30,13,43,Infectious,8,< 15 years,Female,No,Adama,43.33333333,Female,2
+214,32585,594,24063.67798,56610.78761,30,17,57,Infectious,7,< 15 years,Female,Yes,Adama,56.66666667,Female,2
+215,20240,0,20402.21967,154884.8433,30,18,60,Infectious,25,>= 15 years,Male,No,Adama,60,Male,2
+216,18507,398,124343.6627,1872301.8,30,4,13,Infectious,12,< 15 years,Male,No,Adama,13.33333333,Male,2
+217,1663,396,6807.300311,101309.394,30,17,57,Infectious,42,>= 15 years,Male,Yes,Adama,56.66666667,Male,2
+218,30969,666,30823.9924,92049.24274,30,8,27,Infectious,20,>= 15 years,Male,Yes,Adama,26.66666667,Male,2
+219,8866,157,7454.206742,77567.86388,30,18,60,Infectious,19,>= 15 years,Male,No,Adama,60,Male,2
+220,5269,269,3459.936278,101309.394,30,24,80,Infectious,14,< 15 years,Female,Yes,Adama,80,Female,2
+221,16528,603,42880.32462,180063.9208,30,12,40,Infectious,30,>= 15 years,Female,No,Adama,40,Female,2
+222,7124,0,653.2114119,16620.20348,30,0,0,Non infectious,27,>= 15 years,Male,Yes,Adama,0,Male,2
+223,13725,190,12641.31096,38318.42692,32,27,84,Infectious,6,< 15 years,Male,Yes,Adama,84.375,Male,2
+224,203,0,970.7262509,10013.70302,30,0,0,Non infectious,46,>= 15 years,Female,No,Adama,0,Female,2
+225,6368,218,1863.163193,52145.49216,31,26,84,Infectious,21,>= 15 years,Male,No,Adama,83.87096774,Male,2
+226,627,0,44.31951326,742.4226352,30,0,0,Non infectious,38,>= 15 years,Male,No,Adama,0,Male,2
+227,10224,366,4933.895696,523960.1353,30,22,73,Infectious,16,>= 15 years,Female,No,Adama,73.33333333,Female,2
+228,17029,262,3133.699495,45472.20981,30,0,0,Non infectious,30,>= 15 years,Male,Yes,Adama,0,Male,2
+229,1069,0,916.2356134,6778.025239,30,0,0,Non infectious,37,>= 15 years,Female,No,Adama,0,Female,2
+230,15960,190,893.8290807,20409.9717,30,0,0,Non infectious,34,>= 15 years,Male,Yes,Adama,0,Male,2
+231,0,475,217.4205811,16394.16363,30,5,17,Infectious,20,>= 15 years,Male,No,Adama,16.66666667,Male,2
+232,1547,0,92.38285889,28351.24325,30,18,60,Infectious,46,>= 15 years,Male,Yes,Adama,60,Male,2
+233,650,72,57.71521563,3946.334321,30,4,13,Infectious,40,>= 15 years,Male,Yes,Adama,13.33333333,Male,2
+234,4120,0,2861.744286,23405.24078,30,19,63,Infectious,24,>= 15 years,Male,No,Adama,63.33333333,Male,2
+235,16784,0,18326.62263,29743.14285,30,4,13,Infectious,18,>= 15 years,Male,Yes,Adama,13.33333333,Male,2
+236,12280,0,1430.722989,103411.8539,30,0,0,Non infectious,26,>= 15 years,Male,Yes,Adama,0,Male,2
+237,3889,290,2126.172841,96568.38509,30,25,83,Infectious,20,>= 15 years,Male,No,Adama,83.33333333,Male,2
+238,16226,0,3605.697156,104837.6784,30,11,37,Infectious,27,>= 15 years,Male,No,Adama,36.66666667,Male,2
+239,7883,0,1361.601995,28546.02513,30,28,93,Infectious,53,>= 15 years,Male,No,Adama,93.33333333,Male,2
+240,7400,267,13957.34673,87741.58417,30,0,0,Non infectious,22,>= 15 years,Male,No,Adama,0,Male,2
+241,13009,1033,6268.052372,111501.1162,30,28,93,Infectious,30,>= 15 years,Female,Yes,Adama,93.33333333,Female,2
+242,7120,827,7332.177583,390333.8522,30,15,50,Infectious,32,>= 15 years,Male,No,Adama,50,Male,2
+243,17464,600,10542.38975,106283.1619,30,28,93,Infectious,11,< 15 years,Female,Yes,Adama,93.33333333,Female,2
+244,7574,615,4323.568001,49029.21625,30,16,53,Infectious,15,>= 15 years,Female,Yes,Adama,53.33333333,Female,2
+245,8554,347,1619.268981,19190.2478,30,11,37,Infectious,26,>= 15 years,Male,No,Adama,36.66666667,Male,2
+246,3960,227,2197.533396,174003.917,30,0,0,Non infectious,25,>= 15 years,Male,No,Adama,0,Male,2
+247,2068,0,259.1910922,233572.1469,30,0,0,Non infectious,31,>= 15 years,Male,No,Adama,0,Male,2
+248,3098,0,190.9869021,30990.46339,30,23,77,Infectious,40,>= 15 years,Male,No,Adama,76.66666667,Male,2
+249,2258,560,3665.706639,79177.61911,30,14,47,Infectious,15,>= 15 years,Female,No,Adama,46.66666667,Female,2
+250,17795,382,345.9936278,4619.395977,30,12,40,Infectious,12,< 15 years,Male,Yes,Adama,40,Male,2
+251,8040,827,14.54534459,22929.39029,30,9,30,Infectious,22,>= 15 years,Male,No,Adama,30,Male,2
+252,392,357,68.63713382,38318.42692,30,12,40,Infectious,25,>= 15 years,Male,No,Adama,40,Male,2
+253,10706,597,2487.132512,379788.7321,30,29,97,Infectious,20,>= 15 years,Male,No,Adama,96.66666667,Male,2
+254,38461,152,318.5853539,115384.346,30,18,60,Infectious,14,< 15 years,Male,Yes,Adama,60,Male,2
+255,13711.5,759,3608.68515,89562.47322,21,0,0,Non infectious,20,>= 15 years,Female,No,Adama,0,Female,2
+256,73072.5,1580,5610.888702,80820.78138,30,28,93,Infectious,30,>= 15 years,Male,Yes,Adama,93.33333333,Male,2
+257,2847,0,6.402567845,917.9748985,28,0,0,Non infectious,23,>= 15 years,Female,Yes,Adama,0,Female,2
+258,34735,0,1151,1851,30,0,0,Non infectious,26,>= 15 years,Male,No,Arba Minch,0,Male,1
+259,633,114,630010,246659,30,25,83,Infectious,15,>= 15 years,Female,Yes,Arba Minch,83.33333333,Female,1
+260,5080,865,1500000,7993,30,13,43,Infectious,13,< 15 years,Male,No,Arba Minch,43.33333333,Male,1
+261,1671,44,690871,147983,32,8,25,Infectious,4,< 15 years,Male,Yes,Arba Minch,25,Male,1
+262,256,24,12673,227,30,0,0,Non infectious,12,< 15 years,Male,Yes,Arba Minch,0,Male,1
+263,480,114,9685,57528,29,14,48,Infectious,14,< 15 years,Male,No,Arba Minch,48.27586207,Male,1
+264,2000,313,66746,236516,33,20,61,Infectious,32,>= 15 years,Male,Yes,Arba Minch,60.60606061,Male,1
+265,142,45,21847,14190,30,20,67,Infectious,18,>= 15 years,Male,No,Arba Minch,66.66666667,Male,1
+266,3120,112,2500000,810615,30,17,57,Infectious,15,>= 15 years,Male,Yes,Arba Minch,56.66666667,Male,1
+267,2560,235,426751,229986,33,28,85,Infectious,20,>= 15 years,Male,Yes,Arba Minch,84.84848485,Male,1
+268,3562,655,11428,17262,30,17,57,Infectious,20,>= 15 years,Female,No,Arba Minch,56.66666667,Female,1
+269,4521,125,558,7558,34,4,12,Infectious,20,>= 15 years,Female,No,Arba Minch,11.76470588,Female,1
+270,112,114,17965,504,32,5,16,Infectious,32,>= 15 years,Male,No,Arba Minch,15.625,Male,1
+271,101,141,1001,41,32,0,0,Non infectious,11,< 15 years,Male,Yes,Arba Minch,0,Male,1
+272,143,152,4824,799,30,0,0,Non infectious,9,< 15 years,Male,Yes,Arba Minch,0,Male,1
+273,1244,455,237381,653,30,6,20,Infectious,6,< 15 years,Female,Yes,Arba Minch,20,Female,1
+275,16,0,3766,533,30,11,37,Infectious,50,>= 15 years,Male,No,Arba Minch,36.66666667,Male,1
+276,80,11,5896,2415,30,22,73,Infectious,53,>= 15 years,Male,No,Arba Minch,73.33333333,Male,1
+277,80,235,20533,2519,30,5,17,Infectious,15,>= 15 years,Male,Yes,Arba Minch,16.66666667,Male,1
+278,32,124,333052,13047,30,8,27,Infectious,13,< 15 years,Female,Yes,Arba Minch,26.66666667,Female,1
+279,320,112,103050,2817,30,24,80,Infectious,18,>= 15 years,Male,Yes,Arba Minch,80,Male,1
+280,1000,325,192786,13047,31,3,10,Infectious,16,>= 15 years,Male,No,Arba Minch,9.677419355,Male,1
+281,1244,124,61,55,33,0,0,Non infectious,15,>= 15 years,Male,No,Arba Minch,0,Male,1
+282,400,351,117071,15760,22,9,41,Infectious,20,>= 15 years,Male,Yes,Arba Minch,40.90909091,Male,1
+283,20800,55,7100000,89406,30,25,83,Infectious,7,< 15 years,Male,Yes,Arba Minch,83.33333333,Male,1
+284,360,254,722256,3129,31,0,0,Non infectious,14,< 15 years,Female,Yes,Arba Minch,0,Female,1
+285,64,124,25502,4535,19,0,0,Non infectious,18,>= 15 years,Female,Yes,Arba Minch,0,Female,1
+286,64,654,1321,35994,30,8,27,Infectious,18,>= 15 years,Male,Yes,Arba Minch,26.66666667,Male,1
+287,1592,456,19033,8816,30,29,97,Infectious,18,>= 15 years,Male,No,Arba Minch,96.66666667,Male,1
+288,120,526,420113,162079,30,5,17,Infectious,11,< 15 years,Male,No,Arba Minch,16.66666667,Male,1
+289,421,654,1826,14,26,0,0,Non infectious,50,>= 15 years,Female,No,Arba Minch,0,Female,1
+290,80,325,170729,350,29,3,10,Infectious,11,< 15 years,Male,Yes,Arba Minch,10.34482759,Male,1
+292,2552,231,545976,28974,31,15,48,Infectious,5,< 15 years,Male,No,Arba Minch,48.38709677,Male,1
+293,5280,325,1800000,9324,30,17,57,Infectious,10,< 15 years,Male,No,Arba Minch,56.66666667,Male,1
+294,520,125,38455,228,30,19,63,Infectious,38,>= 15 years,Male,No,Arba Minch,63.33333333,Male,1
+295,4080,325,420560,17383,30,0,0,Non infectious,7,< 15 years,Female,No,Arba Minch,0,Female,1
+296,1280,325,879401,9724,30,20,67,Infectious,20,>= 15 years,Male,Yes,Arba Minch,66.66666667,Male,1
+297,1080,65,58145,8050,32,23,72,Infectious,18,>= 15 years,Female,No,Arba Minch,71.875,Female,1
+299,1393,256,36661,138950,32,0,0,Non infectious,8,< 15 years,Female,Yes,Arba Minch,0,Female,1
+300,3320,221,146372,3780,31,11,36,Infectious,15,>= 15 years,Male,No,Arba Minch,35.48387097,Male,1
+301,920,352,706645,345139,32,12,38,Infectious,8,< 15 years,Male,No,Arba Minch,37.5,Male,1
+302,48,544,38451,2268,31,0,0,Non infectious,8,< 15 years,Male,Yes,Arba Minch,0,Male,1
+303,31,365,598,926,30,0,0,Non infectious,10,< 15 years,Female,No,Arba Minch,0,Female,1
+304,48,565,14170,1800,30,0,0,Non infectious,56,>= 15 years,Male,No,Arba Minch,0,Male,1
+305,24554,551,115864,28974,32,12,38,Infectious,16,>= 15 years,Female,Yes,Arba Minch,37.5,Female,1
+306,80,655,51804,1150,32,6,19,Infectious,30,>= 15 years,Male,No,Arba Minch,18.75,Male,1
+307,448,546,1800000,14091,31,17,55,Infectious,11,< 15 years,Male,Yes,Arba Minch,54.83870968,Male,1
+308,560,562,242274,559397,30,9,30,Infectious,6,< 15 years,Male,Yes,Arba Minch,30,Male,1
+309,240,124,9165,3022,30,13,43,Infectious,20,>= 15 years,Male,Yes,Arba Minch,43.33333333,Male,1
+310,880,455,31920,28174,32,21,66,Infectious,35,>= 15 years,Female,Yes,Arba Minch,65.625,Female,1
+311,1742,61,430098,17022,23,5,22,Infectious,10,< 15 years,Female,Yes,Arba Minch,21.73913043,Female,1
+312,880,45,117472,476224,30,22,73,Infectious,12,< 15 years,Female,No,Arba Minch,73.33333333,Female,1
+313,1800,543,1700000,18256,38,0,0,Non infectious,10,< 15 years,Male,Yes,Arba Minch,0,Male,1
+314,1160,4,708736,103561,28,5,18,Infectious,7,< 15 years,Male,Yes,Arba Minch,17.85714286,Male,1
+315,8636,477,111629,1714,18,0,0,Non infectious,13,< 15 years,Male,Yes,Arba Minch,0,Male,1
+316,5867,55,264990,31512,30,22,73,Infectious,30,>= 15 years,Male,Yes,Arba Minch,73.33333333,Male,1
+317,2444,325,218798,10141,30,21,70,Infectious,19,>= 15 years,Male,No,Arba Minch,70,Male,1
+318,4474,6351,14850,766,31,0,0,Non infectious,30,>= 15 years,Female,Yes,Arba Minch,0,Female,1
+319,1760,5411,879,4440,31,0,0,Non infectious,12,< 15 years,Female,Yes,Arba Minch,0,Female,1
+320,48,55,1652,2,32,0,0,Non infectious,21,>= 15 years,Female,No,Arba Minch,0,Female,1
+321,9680,562,141346,1100000,31,18,58,Infectious,7,< 15 years,Male,Yes,Arba Minch,58.06451613,Male,1
+322,7575,653,66746,365014,30,9,30,Infectious,13,< 15 years,Male,Yes,Arba Minch,30,Male,1
+323,1800,54,295892,1400000,30,0,0,Non infectious,12,< 15 years,Male,Yes,Arba Minch,0,Male,1
+324,1520,0,465400,822041,30,7,23,Infectious,16,>= 15 years,Male,Yes,Arba Minch,23.33333333,Male,1
+325,4545,111,7053,22999,24,0,0,Non infectious,14,< 15 years,Male,No,Arba Minch,0,Male,1
+326,15442,398,1900000,583388,30,8,27,Infectious,13,< 15 years,Male,Yes,Arba Minch,26.66666667,Male,1
+327,3080,0,57750,115024,30,0,0,Non infectious,20,>= 15 years,Male,No,Arba Minch,0,Male,1
+328,21850,597,4400000,300057,30,7,23,Infectious,6,< 15 years,Male,Yes,Arba Minch,23.33333333,Male,1
+329,4668,215,376638,102839,31,2,7,Infectious,9,< 15 years,Female,No,Arba Minch,6.451612903,Female,1
+330,47,0,8438,331,30,0,0,Non infectious,37,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+331,5611,0,869301,4535,30,2,7,Infectious,11,< 15 years,Female,No,Arba Minch,6.666666667,Female,1
+332,4245,352,432432,56333,32,11,34,Infectious,8,< 15 years,Male,No,Arba Minch,34.375,Male,1
+333,464575,155,234065,5478,26,3,12,Infectious,10,< 15 years,Male,No,Arba Minch,11.53846154,Male,1
+334,2040,0,17888,15433,30,7,23,Infectious,26,>= 15 years,Male,No,Arba Minch,23.33333333,Male,1
+335,901,0,155844,56333,30,0,0,Non infectious,10,< 15 years,Male,Yes,Arba Minch,0,Male,1
+336,4554,545,242274,231602,32,3,9,Infectious,9,< 15 years,Male,Yes,Arba Minch,9.375,Male,1
+337,6297,118,40631,105759,30,19,63,Infectious,19,>= 15 years,Male,No,Arba Minch,63.33333333,Male,1
+338,1360,154,91654,20562,30,0,0,Non infectious,14,< 15 years,Male,No,Arba Minch,0,Male,1
+339,1120,0,7351,3728,32,0,0,Non infectious,18,>= 15 years,Male,No,Arba Minch,0,Male,1
+340,1155,0,129375,217463,30,6,20,Infectious,11,< 15 years,Male,Yes,Arba Minch,20,Male,1
+341,5454,512,497391,37801,30,6,20,Infectious,5,< 15 years,Male,No,Arba Minch,20,Male,1
+342,7882,0,99559,13895,33,0,0,Non infectious,7,< 15 years,Female,Yes,Arba Minch,0,Female,1
+343,2242,0,2800000,136063,30,0,0,Non infectious,9,< 15 years,Male,No,Arba Minch,0,Male,1
+344,4544,235,113492,39978,30,15,50,Infectious,16,>= 15 years,Male,No,Arba Minch,50,Male,1
+345,520,0,514,2300,32,0,0,Non infectious,14,< 15 years,Male,No,Arba Minch,0,Male,1
+346,2560,6266,995629,17383,28,0,0,Non infectious,15,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+347,776,22,3464,5,31,2,7,Infectious,12,< 15 years,Female,No,Arba Minch,6.451612903,Female,1
+348,936,0,26867,9589,31,13,42,Infectious,25,>= 15 years,Male,No,Arba Minch,41.93548387,Male,1
+349,41980,1525,1900000,32635,31,3,10,Infectious,12,< 15 years,Male,Yes,Arba Minch,9.677419355,Male,1
+350,15080,415,542758,25014,30,15,50,Infectious,16,>= 15 years,Male,Yes,Arba Minch,50,Male,1
+351,396,321,32363,834,34,14,41,Infectious,17,>= 15 years,Female,Yes,Arba Minch,41.17647059,Female,1
+352,13358,0,735094,965612,33,0,0,Non infectious,7,< 15 years,Male,Yes,Arba Minch,0,Male,1
+353,3200,545,175140,27396,31,10,32,Infectious,25,>= 15 years,Female,No,Arba Minch,32.25806452,Female,1
+354,5782,0,314832,1126,34,8,24,Infectious,15,>= 15 years,Male,Yes,Arba Minch,23.52941176,Male,1
+355,8557,366,425243,88163,31,17,55,Infectious,17,>= 15 years,Female,Yes,Arba Minch,54.83870968,Female,1
+356,6297,35,397132,115832,32,13,41,Infectious,18,>= 15 years,Male,No,Arba Minch,40.625,Male,1
+357,1640,0,61872,47290,31,0,0,Non infectious,16,>= 15 years,Female,Yes,Arba Minch,0,Female,1
+358,609,238,160056,27015,31,0,0,Non infectious,13,< 15 years,Male,Yes,Arba Minch,0,Male,1
+359,4417,211,111965,20999,30,9,30,Infectious,10,< 15 years,Male,No,Arba Minch,30,Male,1
+360,6660,564,220459,354938,30,23,77,Infectious,14,< 15 years,Male,No,Arba Minch,76.66666667,Male,1
+361,6884,346,325874,17876,34,28,82,Infectious,18,>= 15 years,Female,Yes,Arba Minch,82.35294118,Female,1
+362,5560,256,42935,29589,32,16,50,Infectious,7,< 15 years,Male,No,Arba Minch,50,Male,1
+363,79,0,34673,1800,32,1,3,Infectious,24,>= 15 years,Female,No,Arba Minch,3.125,Female,1
+364,13771,477,48273,54395,32,10,31,Infectious,7,< 15 years,Female,No,Arba Minch,31.25,Female,1
+365,21234,0,636017,35246,30,8,27,Infectious,10,< 15 years,Male,Yes,Arba Minch,26.66666667,Male,1
+367,3360,0,65380,2332,30,0,0,Non infectious,12,< 15 years,Male,No,Arba Minch,0,Male,1
+368,31,0,476,1609,31,0,0,Non infectious,18,>= 15 years,Male,No,Arba Minch,0,Male,1
+370,594,451,2724,201,32,16,50,Infectious,35,>= 15 years,Female,No,Arba Minch,50,Female,1
+371,1342,0,29184,189058,32,8,25,Infectious,19,>= 15 years,Male,No,Arba Minch,25,Male,1
+372,1176,0,114681,1490,32,9,28,Infectious,11,< 15 years,Male,No,Arba Minch,28.125,Male,1
+373,53653,0,1200000,238177,30,0,0,Non infectious,11,< 15 years,Female,Yes,Arba Minch,0,Female,1
+374,1672,254,24734,59995,30,28,93,Infectious,10,< 15 years,Female,No,Arba Minch,93.33333333,Female,1
+375,1739,124,266823,42577,32,31,97,Infectious,8,< 15 years,Male,No,Arba Minch,96.875,Male,1
+376,78,0,32363,8573,33,1,3,Infectious,10,< 15 years,Male,No,Arba Minch,3.03030303,Male,1
+377,7527,542,1600000,233228,31,27,87,Infectious,10,< 15 years,Female,Yes,Arba Minch,87.09677419,Female,1
+378,32,12,299883,24494,32,27,84,Infectious,11,< 15 years,Male,Yes,Arba Minch,84.375,Male,1
+379,3111,315,71019,115832,29,26,90,Infectious,11,< 15 years,Female,No,Arba Minch,89.65517241,Female,1
+380,10400,5642,662877,630075,30,29,97,Infectious,16,>= 15 years,Female,No,Arba Minch,96.66666667,Female,1
+381,1512,124,64784,2432,31,14,45,Infectious,15,>= 15 years,Female,No,Arba Minch,45.16129032,Female,1
+382,130,23,4063,2252,30,29,97,Infectious,30,>= 15 years,Female,No,Arba Minch,96.66666667,Female,1
+383,12019,0,441353,46960,32,0,0,Non infectious,8,< 15 years,Male,Yes,Arba Minch,0,Male,1
+384,31,0,5579,4199,32,4,13,Infectious,40,>= 15 years,Female,No,Arba Minch,12.5,Female,1
+385,21157,4554,1700000,13606,31,20,65,Infectious,13,< 15 years,Male,Yes,Arba Minch,64.51612903,Male,1
+386,63,0,1377,5143,30,16,53,Infectious,34,>= 15 years,Male,No,Arba Minch,53.33333333,Male,1
+387,2666,32,115214,9656,30,23,77,Infectious,15,>= 15 years,Male,No,Arba Minch,76.66666667,Male,1
+388,862,152,38187,3286,30,20,67,Infectious,40,>= 15 years,Male,No,Arba Minch,66.66666667,Male,1
+390,17280,0,5800000,350004,32,4,13,Infectious,12,< 15 years,Male,Yes,Arba Minch,12.5,Male,1
+391,63525,554,2500000,297964,31,27,87,Infectious,10,< 15 years,Female,Yes,Arba Minch,87.09677419,Female,1
+392,1669,0,125857,1500000,31,8,26,Infectious,15,>= 15 years,Female,Yes,Arba Minch,25.80645161,Female,1
+393,2912,0,2300000,122503,30,0,0,Non infectious,15,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+394,32128,320,1400000,85730,36,0,0,Non infectious,13,< 15 years,Male,Yes,Arba Minch,0,Male,1
+395,9717,555,741064,54016,34,25,74,Infectious,10,< 15 years,Male,No,Arba Minch,73.52941176,Male,1
+396,5438,655,604377,18256,34,26,77,Infectious,14,< 15 years,Male,No,Arba Minch,76.47058824,Male,1
+397,310,44,18516,10876,30,21,70,Infectious,18,>= 15 years,Female,No,Arba Minch,70,Female,1
+398,57052,0,1400000,750551,34,7,21,Infectious,8,< 15 years,Male,Yes,Arba Minch,20.58823529,Male,1
+399,546,0,18389,178,37,0,0,Non infectious,18,>= 15 years,Female,No,Arba Minch,0,Female,1
+400,10827,278,216972,150069,31,19,61,Infectious,15,>= 15 years,Female,No,Arba Minch,61.29032258,Female,1
+401,18626,159,270527,5402,32,0,0,Non infectious,14,< 15 years,Male,Yes,Arba Minch,0,Male,1
+402,1568,0,36893,45985,32,0,0,Non infectious,30,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+403,2975,0,148822,7719,37,0,0,Non infectious,20,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+404,8310,427,224581,496648,30,11,37,Infectious,6,< 15 years,Female,No,Arba Minch,36.66666667,Female,1
+405,688,0,74166,217463,31,0,0,Non infectious,13,< 15 years,Male,Yes,Arba Minch,0,Male,1
+406,12768,236,387168,11747,32,6,19,Infectious,9,< 15 years,Male,Yes,Arba Minch,18.75,Male,1
+407,1046,448,89778,1490,30,4,13,Infectious,10,< 15 years,Female,Yes,Arba Minch,13.33333333,Female,1
+408,872,124,96185,5834,31,12,39,Infectious,15,>= 15 years,Female,Yes,Arba Minch,38.70967742,Female,1
+409,4077,0,791,61268,31,0,0,Non infectious,12,< 15 years,Male,No,Arba Minch,0,Male,1
+410,6879,0,107402,31512,30,0,0,Non infectious,15,>= 15 years,Female,No,Arba Minch,0,Female,1
+411,30255,656,510106,925903,38,33,87,Infectious,12,< 15 years,Female,Yes,Arba Minch,86.84210526,Female,1
+412,235,0,38,1,32,0,0,Non infectious,10,< 15 years,Female,No,Arba Minch,0,Female,1
+413,6862,544,70046,25014,30,27,90,Infectious,32,>= 15 years,Female,No,Arba Minch,90,Female,1
+414,2325,0,4913,2721,31,0,0,Non infectious,13,< 15 years,Female,No,Arba Minch,0,Female,1
+415,27542,278,686124,262696,32,20,63,Infectious,10,< 15 years,Female,Yes,Arba Minch,62.5,Female,1
+416,18600,0,981954,833629,34,0,0,Non infectious,14,< 15 years,Male,Yes,Arba Minch,0,Male,1
+417,3113,324,110405,14798,34,18,53,Infectious,18,>= 15 years,Female,Yes,Arba Minch,52.94117647,Female,1
+418,5257,0,12076,141898,34,0,0,Non infectious,11,< 15 years,Female,No,Arba Minch,0,Female,1
+419,40895,653,551412,201350,30,10,33,Infectious,12,< 15 years,Male,Yes,Arba Minch,33.33333333,Male,1
+420,5452,564,161310,82781,34,11,32,Infectious,19,>= 15 years,Female,Yes,Arba Minch,32.35294118,Female,1
+421,472,12,7005,10000,30,23,77,Infectious,27,>= 15 years,Female,No,Arba Minch,76.66666667,Female,1
+422,12000,543,268669,48633,30,10,33,Infectious,10,< 15 years,Male,Yes,Arba Minch,33.33333333,Male,1
+423,1108,235,28605,4696,32,21,66,Infectious,6,< 15 years,Female,No,Arba Minch,65.625,Female,1
+424,9568,666,189026,98610,30,26,87,Infectious,18,>= 15 years,Male,No,Arba Minch,86.66666667,Male,1
+425,3317,215,133913,22999,32,21,66,Infectious,26,>= 15 years,Female,No,Arba Minch,65.625,Female,1
+426,4435,158,91654,66171,32,29,91,Infectious,35,>= 15 years,Male,No,Arba Minch,90.625,Male,1
+427,1240,0,73509,1296,30,0,0,Non infectious,13,< 15 years,Male,No,Arba Minch,0,Male,1
+428,1236,0,26499,745,30,0,0,Non infectious,18,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+429,4487,245,104481,6805,30,18,60,Infectious,12,< 15 years,Male,Yes,Arba Minch,60,Male,1
+430,11480,445,514014,264541,31,15,48,Infectious,19,>= 15 years,Male,Yes,Arba Minch,48.38709677,Male,1
+431,12729,197,12700,49665,30,3,10,Infectious,10,< 15 years,Female,No,Arba Minch,10,Female,1
+432,27287,695,2700000,734956,33,32,97,Infectious,11,< 15 years,Female,No,Arba Minch,96.96969697,Female,1
+433,5535,4623,44748,150069,30,23,77,Infectious,22,>= 15 years,Female,No,Arba Minch,76.66666667,Female,1
+434,1115,124,120806,51434,30,21,70,Infectious,14,< 15 years,Male,No,Arba Minch,70,Male,1
+435,2217,0,96851,140908,32,9,28,Infectious,12,< 15 years,Female,Yes,Arba Minch,28.125,Female,1
+436,9154,0,226134,306424,30,7,23,Infectious,10,< 15 years,Male,Yes,Arba Minch,23.33333333,Male,1
+437,10830,0,92288,612680,30,0,0,Non infectious,12,< 15 years,Male,Yes,Arba Minch,0,Male,1
+438,3368,0,173714,761130,30,0,0,Non infectious,12,< 15 years,Female,Yes,Arba Minch,0,Female,1
+439,11164,544,148502,3860,31,20,65,Infectious,20,>= 15 years,Female,Yes,Arba Minch,64.51612903,Female,1
+440,2560,365,323635,77728,30,12,40,Infectious,7,< 15 years,Male,No,Arba Minch,40,Male,1
+441,9663,0,22561,340,35,0,0,Non infectious,13,< 15 years,Female,Yes,Arba Minch,0,Female,1
+442,7920,0,154773,59995,31,0,0,Non infectious,9,< 15 years,Female,Yes,Arba Minch,0,Female,1
+443,2322,654,90399,250136,30,11,37,Infectious,30,>= 15 years,Female,Yes,Arba Minch,36.66666667,Female,1
+444,6796,554,58150,111069,30,12,40,Infectious,20,>= 15 years,Male,No,Arba Minch,40,Male,1
+445,13069,4,332684,399782,30,21,70,Infectious,19,>= 15 years,Male,Yes,Arba Minch,70,Male,1
+446,126,0,3872,2627,30,0,0,Non infectious,12,< 15 years,Male,Yes,Arba Minch,0,Male,1
+447,2732,125,6404,20999,30,22,73,Infectious,35,>= 15 years,Male,No,Arba Minch,73.33333333,Male,1
+448,20435,5411,357763,102839,30,25,83,Infectious,22,>= 15 years,Female,Yes,Arba Minch,83.33333333,Female,1
+449,748,65,24905,13324,28,14,50,Infectious,13,< 15 years,Female,Yes,Arba Minch,50,Female,1
+450,4475,0,67673,32407,32,0,0,Non infectious,18,>= 15 years,Female,No,Arba Minch,0,Female,1
+452,2995,0,32141,354938,30,1,3,Infectious,10,< 15 years,Male,No,Arba Minch,3.333333333,Male,1
+453,753,0,45369,244939,30,6,20,Infectious,12,< 15 years,Male,Yes,Arba Minch,20,Male,1
+454,4320,0,581496,283718,30,3,10,Infectious,15,>= 15 years,Male,No,Arba Minch,10,Male,1
+455,3287,0,19165,5179,30,9,30,Infectious,25,>= 15 years,Female,Yes,Arba Minch,30,Female,1
+456,4078,0,33730,5594,29,2,7,Infectious,12,< 15 years,Male,Yes,Arba Minch,6.896551724,Male,1
+457,6454,811,321411,979223,30,19,63,Infectious,10,< 15 years,Male,No,Arba Minch,63.33333333,Male,1
+458,6226,394,16355,151123,30,10,33,Infectious,6,< 15 years,Male,No,Arba Minch,33.33333333,Male,1
+459,29317,292,459992,591611,30,5,17,Infectious,18,>= 15 years,Male,Yes,Arba Minch,16.66666667,Male,1
+460,14320,0,314832,69494,32,8,25,Infectious,11,< 15 years,Female,No,Arba Minch,25,Female,1
+461,13115,4,25077,50014,30,14,47,Infectious,40,>= 15 years,Female,No,Arba Minch,46.66666667,Female,1
+462,4295,365,52077,3129,30,10,33,Infectious,25,>= 15 years,Female,Yes,Arba Minch,33.33333333,Female,1
+463,29388,277,145462,1100000,30,8,27,Infectious,13,< 15 years,Male,Yes,Arba Minch,26.66666667,Male,1
+464,13846,115,158008,2980,29,1,3,Infectious,25,>= 15 years,Male,No,Arba Minch,3.448275862,Male,1
+465,1560,78,4120,11422,32,9,28,Infectious,10,< 15 years,Male,Yes,Arba Minch,28.125,Male,1
+466,2217,237,23568,14289,28,2,7,Infectious,14,< 15 years,Female,No,Arba Minch,7.142857143,Female,1
+467,888,154,11828,16095,29,4,14,Infectious,11,< 15 years,Male,Yes,Arba Minch,13.79310345,Male,1
+468,10230,247,170456,185130,30,8,27,Infectious,35,>= 15 years,Male,No,Arba Minch,26.66666667,Male,1
+469,1627,656,44135,2519,30,15,50,Infectious,18,>= 15 years,Male,Yes,Arba Minch,50,Male,1
+470,1358,188,16468,6213,30,2,7,Infectious,11,< 15 years,Male,Yes,Arba Minch,6.666666667,Male,1
+471,2415,79,18262,5753,30,2,7,Infectious,9,< 15 years,Male,Yes,Arba Minch,6.666666667,Male,1
+472,23324,0,381867,226790,29,3,10,Infectious,50,>= 15 years,Female,No,Arba Minch,10.34482759,Female,1
+473,258,0,1495,1323,30,0,0,Non infectious,20,>= 15 years,Female,Yes,Arba Minch,0,Female,1
+474,7725,980,7609,473,30,2,7,Infectious,14,< 15 years,Male,No,Arba Minch,6.666666667,Male,1
+475,6935,197,9357,5478,30,27,90,Infectious,15,>= 15 years,Female,Yes,Arba Minch,90,Female,1
+476,24554,0,45369,2537,30,5,17,Infectious,14,< 15 years,Male,Yes,Arba Minch,16.66666667,Male,1
+477,1032,0,33730,18906,26,8,31,Infectious,12,< 15 years,Male,No,Arba Minch,30.76923077,Male,1
+478,3588,74,14248,1490,30,2,7,Infectious,7,< 15 years,Male,Yes,Arba Minch,6.666666667,Male,1
+479,353,0,7053,522,26,1,4,Infectious,22,>= 15 years,Male,Yes,Arba Minch,3.846153846,Male,1
+480,7164,199,119927,39148,30,0,0,Non infectious,10,< 15 years,Male,No,Arba Minch,0,Male,1
+481,9074,481,140534,22521,29,1,3,Infectious,17,>= 15 years,Female,Yes,Arba Minch,3.448275862,Female,1
+482,1244,0,31,189,30,0,0,Non infectious,61,>= 15 years,Female,Yes,Arba Minch,0,Female,1
+483,472,0,2423,438,30,0,0,Non infectious,17,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+484,11339,466,154773,138950,30,22,73,Infectious,50,>= 15 years,Female,Yes,Arba Minch,73.33333333,Female,1
+485,29605,583,392543,111849,28,2,7,Infectious,30,>= 15 years,Female,No,Arba Minch,7.142857143,Female,1
+486,17516,530,209620,839483,32,19,59,Infectious,18,>= 15 years,Male,Yes,Arba Minch,59.375,Male,1
+487,712,0,16131,2721,29,0,0,Non infectious,15,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+488,1640,200,59775,47290,30,0,0,Non infectious,24,>= 15 years,Male,No,Arba Minch,0,Male,1
+489,1432,159,29386,10,30,6,20,Infectious,12,< 15 years,Female,No,Arba Minch,20,Female,1
+490,4244,0,231,20,29,0,0,Non infectious,14,< 15 years,Female,Yes,Arba Minch,0,Female,1
+491,4307,0,122433,15,30,0,0,Non infectious,19,>= 15 years,Female,No,Arba Minch,0,Female,1
+492,334,0,4206,2,29,0,0,Non infectious,18,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+493,9353,238,93569,41986,30,0,0,Non infectious,15,>= 15 years,Male,Yes,Arba Minch,0,Male,1
+494,372,0,1455,720,30,0,0,Non infectious,24,>= 15 years,Male,No,Arba Minch,0,Male,1
+495,835,0,3127,9589,28,8,29,Infectious,12,< 15 years,Female,No,Arba Minch,28.57142857,Female,1
+496,2512,115,86140,4199,29,15,52,Infectious,14,< 15 years,Female,Yes,Arba Minch,51.72413793,Female,1
+497,1244,651,38451,288,25,15,60,Infectious,19,>= 15 years,Female,Yes,Arba Minch,60,Female,1
