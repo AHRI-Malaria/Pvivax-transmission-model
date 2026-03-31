@@ -1,2 +1,2 @@
 # Pvivax-transmission-model
-Data and code for "A Joint Bayesian Latent-Variable Model for Plasmodium vivax Transmission"
+Data and code for "A joint Bayesian framework for modeling Plasmodium vivax transmission"
