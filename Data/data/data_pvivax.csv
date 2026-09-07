@@ -1,0 +1,418 @@
+sno,id,mic_status,mic_species,par,gam,type_infection,par_sps_PCR,number_dissect,number_inf,percent_inf,infect_stat,age,agecat,gender,temperature_bl (°C),fever,fever_>=37.5 °C,site,study_P,temp,pinfect,sex,study
+2,BD460,Positive,P. vivax,1264,0,asymptomatic,Pv,24,2,8.3,Infectious,5,< 15 years,Male,37.1,No,no,Adama,CID,37.1,8.333333333,Male,3
+5,BD307,Positive,P. vivax,1540,0,asymptomatic,Pv,20,9,45,Infectious,4,< 15 years,Female,36.2,No,no,Adama,CID,36.2,45,Female,3
+7,BD366,Positive,P. vivax,309,0,asymptomatic,Pv,24,0,0,Non infectious,3,< 15 years,Male,,No,,Adama,CID,,0,Male,3
+8,BD287,Positive,P. vivax,11559,153,asymptomatic,Pv,20,0,0,Non infectious,1,< 15 years,Male,35.6,No,no,Adama,CID,35.6,0,Male,3
+11,BD286,Positive,P. vivax,32,0,asymptomatic,Pv,19,6,31.6,Infectious,3,< 15 years,Male,36.6,No,no,Adama,CID,36.6,31.57894737,Male,3
+13,BD178,Positive,P. vivax,111,0,asymptomatic,Pv,20,0,0,Non infectious,11,< 15 years,Male,,No,,Adama,CID,,0,Male,3
+14,BD135,Positive,P. falciparum,208,0,asymptomatic,mixed,40,0,0,Non infectious,10,< 15 years,Male,,No,,Adama,CID,,0,Male,3
+16,BD389,Positive,Mixed infection,1126,0,asymptomatic,Pv,20,0,0,Non infectious,14,< 15 years,Female,,No,,Adama,CID,,0,Female,3
+17,BD327,Positive,P. vivax,569,0,asymptomatic,Pv,17,0,0,Non infectious,12,< 15 years,Male,36.4,No,no,Adama,CID,36.4,0,Male,3
+18,BD061,Positive,P. vivax,6873,0,asymptomatic,Pv,37,5,13.5,Infectious,7,< 15 years,Female,,No,,Adama,CID,,13.51351351,Female,3
+19,BD485,Positive,P. vivax,48,0,asymptomatic,Pv,17,0,0,Non infectious,14,< 15 years,Male,36.6,No,no,Adama,CID,36.6,0,Male,3
+20,BD160,Positive,P. vivax,85,0,asymptomatic,Pv,20,0,0,Non infectious,15,>= 15 years,Male,,No,,Adama,CID,,0,Male,3
+21,BD334,Positive,P. vivax,74,0,asymptomatic,Pv,20,0,0,Non infectious,12,< 15 years,Female,36.7,No,no,Adama,CID,36.7,0,Female,3
+22,BD401,Positive,P. vivax,1552,0,asymptomatic,Pv,37,11,29.7,Infectious,7,< 15 years,Female,,No,,Adama,CID,,29.72972973,Female,3
+24,BD459,Positive,P. vivax,282,0,asymptomatic,Pv,20,0,0,Non infectious,8,< 15 years,Male,37.1,No,no,Adama,CID,37.1,0,Male,3
+26,Z027,Positive,P. vivax,8065,67,symptomatic,Pv,32,28,87.5,Infectious,14,< 15 years,Male,,No,,Adama,CID,,87.5,Male,3
+28,Z035,Positive,P. vivax,49749,402,symptomatic,Pv,20,0,0,Non infectious,14,< 15 years,Male,,No,,Adama,CID,,0,Male,3
+29,BD166,Positive,P. vivax,401,0,asymptomatic,mixed,34,10,29.4,Infectious,11,< 15 years,Male,,No,,Adama,CID,,29.41176471,Male,3
+31,BD288,Positive,P. vivax,517,0,asymptomatic,Pv,27,22,81.5,Infectious,49,>= 15 years,Female,35.4,No,no,Adama,CID,35.4,81.48148148,Female,3
+32,Z030,Positive,Mixed infection,6356.5,10,symptomatic,Pv,9,1,11.1,Infectious,56,>= 15 years,Male,37.2,No,no,Adama,CID,37.2,11.11111111,Male,3
+33,BD093,Positive,P. vivax,7453,0,asymptomatic,Pv,20,0,0,Non infectious,30,>= 15 years,Male,,No,,Adama,CID,,0,Male,3
+35,BD170,Positive,P. vivax,966,0,asymptomatic,Pv,20,5,25,Infectious,16,>= 15 years,Female,,No,,Adama,CID,,25,Female,3
+36,Z025,Positive,P. vivax,14437,324,symptomatic,Pv,41,34,82.9,Infectious,25,>= 15 years,Male,34.6,No,no,Adama,CID,34.6,82.92682927,Male,3
+37,Z033,Positive,P. vivax,1168,237,symptomatic,Pv,20,1,5,Infectious,18,>= 15 years,Male,,No,,Adama,CID,,5,Male,3
+39,Z034,Positive,P. vivax,11813.5,134,symptomatic,Pv,20,1,5,Infectious,70,>= 15 years,Female,,No,,Adama,CID,,5,Female,3
+40,Z031,Positive,P. vivax,8453,83,symptomatic,Pv,7,0,0,Non infectious,25,>= 15 years,Male,36,No,no,Adama,CID,36,0,Male,3
+41,Z028,Positive,P. vivax,118.5,24,symptomatic,Pv,28,0,0,Non infectious,22,>= 15 years,Male,36.6,No,no,Adama,CID,36.6,0,Male,3
+42,Z041,Positive,Mixed infection,18298,310,symptomatic,Pv,21,16,76.2,Infectious,37,>= 15 years,Female,,No,,Adama,CID,,76.19047619,Female,3
+44,BD444,Positive,P. vivax,4663,110,asymptomatic,mixed,19,10,52.6,Infectious,44,>= 15 years,Female,34.9,No,no,Adama,CID,34.9,52.63157895,Female,3
+47,Z024,Positive,P. vivax,11629,0,symptomatic,Pv,27,0,0,Non infectious,25,>= 15 years,Male,35.5,No,no,Adama,CID,35.5,0,Male,3
+49,Z015,Positive,P. vivax,1104.5,350,symptomatic,Pv,27,21,77.8,Infectious,27,>= 15 years,Male,35.8,No,no,Adama,CID,35.8,77.77777778,Male,3
+50,Z029,Positive,P. vivax,27903.5,992.5,symptomatic,Pv,26,17,65.4,Infectious,60,>= 15 years,Male,36,No,no,Adama,CID,36,65.38461538,Male,3
+53,Z039,Positive,Mixed infection,11058,234.5,symptomatic,Pv,42,35,83.3,Infectious,45,>= 15 years,Male,,No,,Adama,CID,,83.33333333,Male,3
+55,Z037,Positive,P. vivax,4539.5,5,symptomatic,Pv,58,15,25.9,Infectious,25,>= 15 years,Male,37.2,No,no,Adama,CID,37.2,25.86206897,Male,3
+56,Z023,Positive,Mixed infection,6541,48,symptomatic,Pv,24,7,29.2,Infectious,18,>= 15 years,Male,37.6,Yes,yes,Adama,CID,37.6,29.16666667,Male,3
+57,Sero-036,Positive,Pv,34735,0,symptomatic recruitment,Pv,30,0,0,Non infectious,26,>= 15 years,Male,37,No,no,Arba Minch,INDIE,37,0,Male,1
+59,AD02,Positive,pv,588,0,symptomatic,Pv,30,0,0,Non infectious,23,>= 15 years,Male,35.8,No,no,Adama,Elif_surfel,35.8,0,Male,2
+60,AD03,Positive,pv,10088,457,symptomatic,Pv,30,24,80,Infectious,31,>= 15 years,Female,36.9,No,no,Adama,Elif_surfel,36.9,80,Female,2
+61,AD05,Positive,pv,512,0,symptomatic,Pv,30,24,80,Infectious,29,>= 15 years,Male,39.3,Yes,yes,Adama,Elif_surfel,39.3,80,Male,2
+62,AD06,Positive,pv,3200,0,symptomatic,Pv,30,1,3.3,Infectious,27,>= 15 years,Male,40,Yes,yes,Adama,Elif_surfel,40,3.333333333,Male,2
+63,AD07,Positive,pv,7223,0,symptomatic,Pv,35,0,0,Non infectious,28,>= 15 years,Male,40,Yes,yes,Adama,Elif_surfel,40,0,Male,2
+64,AD08,Positive,pv,10076,146,symptomatic,Pv,34,31,91.2,Infectious,38,>= 15 years,Female,36.5,No,no,Adama,Elif_surfel,36.5,91.17647059,Female,2
+65,AD10,Positive,pv,1631,0,symptomatic,Pv,30,0,0,Non infectious,40,>= 15 years,Female,36,No,no,Adama,Elif_surfel,36,0,Female,2
+66,AD100,Positive,pv,386,0,symptomatic,Pv,30,0,0,Non infectious,60,>= 15 years,Male,39.2,Yes,yes,Adama,Elif_surfel,39.2,0,Male,2
+67,AD102,Positive,pv,5892,897,symptomatic,Pv,20,6,30,Infectious,22,>= 15 years,Male,35.8,No,no,Adama,Elif_surfel,35.8,30,Male,2
+68,AD103,Positive,pv,663,259,symptomatic,Pv,30,6,20,Infectious,19,>= 15 years,Male,38.2,Yes,yes,Adama,Elif_surfel,38.2,20,Male,2
+69,AD104,Positive,pv,2196,0,symptomatic,Pv,29,9,31,Infectious,30,>= 15 years,Male,37.9,Yes,yes,Adama,Elif_surfel,37.9,31.03448276,Male,2
+70,AD106,Positive,pv,24277,600,symptomatic,Pv,20,12,60,Infectious,25,>= 15 years,Male,34.9,No,no,Adama,Elif_surfel,34.9,60,Male,2
+71,AD108,Positive,pv,3841,0,symptomatic,Pv,30,2,6.7,Infectious,26,>= 15 years,Male,32.2,No,no,Adama,Elif_surfel,32.2,6.666666667,Male,2
+72,AD11,Positive,pfpv,533,0,symptomatic,Pv,36,9,25,Infectious,33,>= 15 years,Male,39.2,Yes,yes,Adama,Elif_surfel,39.2,25,Male,2
+73,AD110,Positive,pv,27243,0,symptomatic,Pv,30,28,93.3,Infectious,19,>= 15 years,Male,35.7,No,no,Adama,Elif_surfel,35.7,93.33333333,Male,2
+74,AD112,Positive,pv,9393,0,symptomatic,Pv,30,16,53.3,Infectious,28,>= 15 years,Male,37.1,No,no,Adama,Elif_surfel,37.1,53.33333333,Male,2
+75,AD113,Positive,pfpv,14680,600,symptomatic,Pv,30,0,0,Non infectious,30,>= 15 years,Male,39.9,Yes,yes,Adama,Elif_surfel,39.9,0,Male,2
+76,AD114,Positive,pv,11356,0,symptomatic,Pv,30,13,43.3,Infectious,8,< 15 years,Female,,No,,Adama,Elif_surfel,,43.33333333,Female,2
+77,AD115,Positive,pfpv,32585,594,symptomatic,Pv,30,17,56.7,Infectious,7,< 15 years,Female,37.8,Yes,yes,Adama,Elif_surfel,37.8,56.66666667,Female,2
+78,AD116,Positive,pv,10069,1600,symptomatic,Pv,30,0,0,Non infectious,16,>= 15 years,Female,37,No,no,Adama,Elif_surfel,37,0,Female,2
+79,AD117,Positive,pv,20240,0,symptomatic,Pv,30,18,60,Infectious,25,>= 15 years,Male,37.1,No,no,Adama,Elif_surfel,37.1,60,Male,2
+80,AD118,Positive,pfpv,18507,398,symptomatic,mixed,30,4,13.3,Infectious,12,< 15 years,Male,37.1,No,no,Adama,Elif_surfel,37.1,13.33333333,Male,2
+81,AD119,Positive,pv,1663,396,symptomatic,Pv,30,17,56.7,Infectious,42,>= 15 years,Male,38.6,Yes,yes,Adama,Elif_surfel,38.6,56.66666667,Male,2
+82,AD120,Positive,pv,30969,666,symptomatic,Pv,30,8,26.7,Infectious,20,>= 15 years,Male,37.8,Yes,yes,Adama,Elif_surfel,37.8,26.66666667,Male,2
+83,AD121,Positive,pv,8866,157,symptomatic,Pv,30,18,60,Infectious,19,>= 15 years,Male,36.3,No,no,Adama,Elif_surfel,36.3,60,Male,2
+84,AD123,Positive,pv,5269,269,symptomatic,Pv,30,24,80,Infectious,14,< 15 years,Female,37.6,Yes,yes,Adama,Elif_surfel,37.6,80,Female,2
+85,AD124,Positive,pv,16528,603,symptomatic,Pv,30,12,40,Infectious,30,>= 15 years,Female,37.2,No,no,Adama,Elif_surfel,37.2,40,Female,2
+86,AD125,Positive,pv,7124,0,symptomatic,Pv,30,0,0,Non infectious,27,>= 15 years,Male,38.4,Yes,yes,Adama,Elif_surfel,38.4,0,Male,2
+87,AD13,Positive,pfpv,13725,190,symptomatic,Pv,32,27,84.4,Infectious,6,< 15 years,Male,37.8,Yes,yes,Adama,Elif_surfel,37.8,84.375,Male,2
+88,AD14,Positive,pv,203,0,symptomatic,Pv,30,0,0,Non infectious,46,>= 15 years,Female,35.8,No,no,Adama,Elif_surfel,35.8,0,Female,2
+89,AD15,Positive,pv,6368,218,symptomatic,Pv,31,26,83.9,Infectious,21,>= 15 years,Male,34.8,No,no,Adama,Elif_surfel,34.8,83.87096774,Male,2
+90,AD16,Positive,pv,627,0,symptomatic,Pv,30,0,0,Non infectious,38,>= 15 years,Male,36.5,No,no,Adama,Elif_surfel,36.5,0,Male,2
+91,AD18,Positive,pv,10224,366,symptomatic,Pv,30,22,73.3,Infectious,16,>= 15 years,Female,35.3,No,no,Adama,Elif_surfel,35.3,73.33333333,Female,2
+93,AD20,Positive,pv,17029,262,symptomatic,Pv,30,0,0,Non infectious,30,>= 15 years,Male,40.3,Yes,yes,Adama,Elif_surfel,40.3,0,Male,2
+94,AD21,Positive,pv,1069,0,symptomatic,Pv,30,0,0,Non infectious,37,>= 15 years,Female,34.6,No,no,Adama,Elif_surfel,34.6,0,Female,2
+95,AD22,Positive,pv,15960,190,symptomatic,Pv,30,0,0,Non infectious,34,>= 15 years,Male,39.3,Yes,yes,Adama,Elif_surfel,39.3,0,Male,2
+96,AD27,Positive,pv,0,475,symptomatic,Pv,30,5,16.7,Infectious,20,>= 15 years,Male,36.3,No,no,Adama,Elif_surfel,36.3,16.66666667,Male,2
+97,AD28,Positive,pv,1547,0,symptomatic,Pv,30,18,60,Infectious,46,>= 15 years,Male,37.7,Yes,yes,Adama,Elif_surfel,37.7,60,Male,2
+98,AD36,Positive,pv,650,72,symptomatic,Pv,30,4,13.3,Infectious,40,>= 15 years,Male,37.8,Yes,yes,Adama,Elif_surfel,37.8,13.33333333,Male,2
+99,AD37,Positive,pv,4120,0,symptomatic,Pv,30,19,63.3,Infectious,24,>= 15 years,Male,36,No,no,Adama,Elif_surfel,36,63.33333333,Male,2
+100,AD38,Positive,pfpv,16784,0,symptomatic,Pv,30,4,13.3,Infectious,18,>= 15 years,Male,38.5,Yes,yes,Adama,Elif_surfel,38.5,13.33333333,Male,2
+101,AD41,Positive,pv,12280,0,symptomatic,Pv,30,0,0,Non infectious,26,>= 15 years,Male,38.8,Yes,yes,Adama,Elif_surfel,38.8,0,Male,2
+102,AD42,Positive,pv,3889,290,symptomatic,Pv,30,25,83.3,Infectious,20,>= 15 years,Male,36.8,No,no,Adama,Elif_surfel,36.8,83.33333333,Male,2
+103,AD43,Positive,pv,16226,0,symptomatic,Pv,30,11,36.7,Infectious,27,>= 15 years,Male,34.8,No,no,Adama,Elif_surfel,34.8,36.66666667,Male,2
+104,AD46,Positive,pv,4019,0,symptomatic,Pv,24,2,8.3,Infectious,28,>= 15 years,Female,36.8,No,no,Adama,Elif_surfel,36.8,8.333333333,Female,2
+105,AD48,Positive,pfpv,6099,0,symptomatic,Pv,30,0,0,Non infectious,21,>= 15 years,Male,38.9,Yes,yes,Adama,Elif_surfel,38.9,0,Male,2
+106,AD55,Positive,pv,15898,0,symptomatic,Pv,30,21,70,Infectious,38,>= 15 years,Male,33,No,no,Adama,Elif_surfel,33,70,Male,2
+107,AD56,Positive,pv,7883,0,symptomatic,Pv,30,28,93.3,Infectious,53,>= 15 years,Male,37.1,No,no,Adama,Elif_surfel,37.1,93.33333333,Male,2
+108,AD58,Positive,pv,7400,267,symptomatic,Pv,30,0,0,Non infectious,22,>= 15 years,Male,35.6,No,no,Adama,Elif_surfel,35.6,0,Male,2
+109,AD59,Positive,pv,7168,152,symptomatic,Pv,30,26,86.7,Infectious,19,>= 15 years,Male,37,No,no,Adama,Elif_surfel,37,86.66666667,Male,2
+110,AD62,Positive,pv,13009,1033,symptomatic,Pv,30,28,93.3,Infectious,30,>= 15 years,Female,37.8,Yes,yes,Adama,Elif_surfel,37.8,93.33333333,Female,2
+111,AD63,Positive,pv,7120,827,symptomatic,Pv,30,15,50,Infectious,32,>= 15 years,Male,37.2,No,no,Adama,Elif_surfel,37.2,50,Male,2
+112,AD64,Positive,pv,17464,600,symptomatic,Pv,30,28,93.3,Infectious,11,< 15 years,Female,37.6,Yes,yes,Adama,Elif_surfel,37.6,93.33333333,Female,2
+113,AD67,Positive,pfpv,7574,615,symptomatic,Pv,30,16,53.3,Infectious,15,>= 15 years,Female,37.5,Yes,yes,Adama,Elif_surfel,37.5,53.33333333,Female,2
+114,AD68,Positive,pv,8554,347,symptomatic,Pv,30,11,36.7,Infectious,26,>= 15 years,Male,35.6,No,no,Adama,Elif_surfel,35.6,36.66666667,Male,2
+115,AD70,Positive,pv,3960,227,symptomatic,Pv,30,0,0,Non infectious,25,>= 15 years,Male,36.7,No,no,Adama,Elif_surfel,36.7,0,Male,2
+116,AD72,Positive,pv,2068,0,symptomatic,Pv,30,0,0,Non infectious,31,>= 15 years,Male,37.4,No,no,Adama,Elif_surfel,37.4,0,Male,2
+117,AD73,Positive,pv,3098,0,symptomatic,Pv,30,23,76.7,Infectious,40,>= 15 years,Male,35.8,No,no,Adama,Elif_surfel,35.8,76.66666667,Male,2
+118,AD74,Positive,pv,2258,560,symptomatic,mixed,30,14,46.7,Infectious,15,>= 15 years,Female,35.5,No,no,Adama,Elif_surfel,35.5,46.66666667,Female,2
+119,AD76,Positive,pv,17795,382,symptomatic,Pv,30,12,40,Infectious,12,< 15 years,Male,38.5,Yes,yes,Adama,Elif_surfel,38.5,40,Male,2
+120,AD77,Positive,pv,8040,827,symptomatic,Pv,30,9,30,Infectious,22,>= 15 years,Male,35.3,No,no,Adama,Elif_surfel,35.3,30,Male,2
+121,AD79,Positive,pv,392,357,symptomatic,Pv,30,12,40,Infectious,25,>= 15 years,Male,37,No,no,Adama,Elif_surfel,37,40,Male,2
+122,AD82,Positive,pv,1273,304,symptomatic,Pv,30,20,66.7,Infectious,28,>= 15 years,Male,38,Yes,yes,Adama,Elif_surfel,38,66.66666667,Male,2
+123,AD83,Positive,pv,3653,0,symptomatic,Pv,30,0,0,Non infectious,19,>= 15 years,Male,35.6,No,no,Adama,Elif_surfel,35.6,0,Male,2
+124,AD85,Positive,pv,10706,597,symptomatic,Pv,30,29,96.7,Infectious,20,>= 15 years,Male,34.9,No,no,Adama,Elif_surfel,34.9,96.66666667,Male,2
+125,AD86,Positive,pv,38461,152,symptomatic,Pv,30,18,60,Infectious,14,< 15 years,Male,38.5,Yes,yes,Adama,Elif_surfel,38.5,60,Male,2
+126,AD87,Positive,pv,24824,1200,symptomatic,Pv,30,0,0,Non infectious,64,>= 15 years,Male,36.5,No,no,Adama,Elif_surfel,36.5,0,Male,2
+127,AD88,Positive,pv,14000,995,symptomatic,mixed,30,12,40,Infectious,9,< 15 years,Female,36.3,No,no,Adama,Elif_surfel,36.3,40,Female,2
+128,AD89,Positive,pv,8079,1114,symptomatic,Pv,30,14,46.7,Infectious,42,>= 15 years,Male,35.9,No,no,Adama,Elif_surfel,35.9,46.66666667,Male,2
+129,AD90,Positive,pv,3603,190,symptomatic,Pv,30,14,46.7,Infectious,39,>= 15 years,Male,36.5,No,no,Adama,Elif_surfel,36.5,46.66666667,Male,2
+130,AD95,Positive,pv,18876,0,symptomatic,Pv,30,13,43.3,Infectious,27,>= 15 years,Male,35.8,No,no,Adama,Elif_surfel,35.8,43.33333333,Male,2
+131,AD96,Positive,pv,30174,600,symptomatic,Pv,30,18,60,Infectious,18,>= 15 years,Male,34.8,No,no,Adama,Elif_surfel,34.8,60,Male,2
+132,AD97,Positive,pv,9233,199,symptomatic,Pv,5,0,0,Non infectious,45,>= 15 years,Male,36.6,No,no,Adama,Elif_surfel,36.6,0,Male,2
+133,AD98,Positive,pv,8627,980,symptomatic,Pv,20,0,0,Non infectious,12,< 15 years,Male,34,No,no,Adama,Elif_surfel,34,0,Male,2
+134,AD99,Positive,pv,6000,0,symptomatic,Pv,30,0,0,Non infectious,10,< 15 years,Male,39,Yes,yes,Adama,Elif_surfel,39,0,Male,2
+135,CL02,Positive,pv,11586,133,symptomatic,Pv,17,13,76.5,Infectious,11,< 15 years,Female,38,Yes,yes,Adama,Elif_surfel,38,76.47058824,Female,2
+136,CL03,Positive,pv,15698,1024,symptomatic,Pv,30,28,93.3,Infectious,50,>= 15 years,Male,36.3,No,no,Adama,Elif_surfel,36.3,93.33333333,Male,2
+137,CL07,Positive,pv,9852,114,symptomatic,Pv,30,28,93.3,Infectious,18,>= 15 years,Male,,No,,Adama,Elif_surfel,,93.33333333,Male,2
+138,CL11,Positive,pv,8512,0,symptomatic,Pv,30,22,73.3,Infectious,28,>= 15 years,Male,36,No,no,Adama,Elif_surfel,36,73.33333333,Male,2
+139,CL12,Positive,pv,2348,0,symptomatic,Pv,29,27,93.1,Infectious,23,>= 15 years,Male,35.8,No,no,Adama,Elif_surfel,35.8,93.10344828,Male,2
+141,CL16,Positive,pv,15333,173,symptomatic,Pv,30,18,60,Infectious,3,< 15 years,Female,36.7,No,no,Adama,Elif_surfel,36.7,60,Female,2
+142,CL17,Positive,pv,7342,0,symptomatic,Pv,30,6,20,Infectious,20,>= 15 years,Male,36.6,No,no,Adama,Elif_surfel,36.6,20,Male,2
+143,CL19,Positive,pv,5188,0,symptomatic,Pv,30,26,86.7,Infectious,33,>= 15 years,Male,39.9,Yes,yes,Adama,Elif_surfel,39.9,86.66666667,Male,2
+144,CL20,Positive,pv,8760,341,symptomatic,Pv,30,23,76.7,Infectious,32,>= 15 years,Male,39.9,Yes,yes,Adama,Elif_surfel,39.9,76.66666667,Male,2
+145,CL23,Positive,pv,1108,0,symptomatic,Pv,30,1,3.3,Infectious,28,>= 15 years,Male,35,No,no,Adama,Elif_surfel,35,3.333333333,Male,2
+146,DB02,Positive,pv,4454,341,symptomatic,Pv,26,7,26.9,Infectious,18,>= 15 years,Female,37.8,Yes,yes,Adama,Elif_surfel,37.8,26.92307692,Female,2
+149,C11R00-0,positive,Pv,73,0,asymptomatic,Pv,30,0,0,Non infectious,9,< 15 years,Male,36.6,No,no,Adama,Elif_surfel,36.6,0,Male,2
+166,C13R00-1,Positive,Pv,78,0,asymptomatic,Pv,17,0,0,Non infectious,6,< 15 years,Male,35.7,No,no,Adama,Elif_surfel,35.7,0,Male,2
+188,C33R00-2,Positive,Pv,1871,199,asymptomatic,Mixed,48,40,83.3,Infectious,7,< 15 years,Female,35.9,No,no,Adama,Elif_surfel,35.9,83.33333333,Female,2
+189,C40R00-0,Positive,Pv,37,0,asymptomatic,Pv,50,0,0,Non infectious,40,>= 15 years,Female,36.9,No,no,Adama,Elif_surfel,36.9,0,Female,2
+200,SRAD02,pv,pv,588,0,symptomatic,Pv,30,0,0,Non infectious,23,>= 15 years,Male,35.8,No,,Adama,Surafel,35.8,0,Male,2
+201,SRAD03,pv,pv,10088,457,symptomatic,Pv,30,24,80,Infectious,31,>= 15 years,Female,36.9,No,,Adama,Surafel,36.9,80,Female,2
+202,SRAD04,pv,pv,512,0,symptomatic,Pv,30,24,80,Infectious,29,>= 15 years,Male,39.3,Yes,,Adama,Surafel,39.3,80,Male,2
+203,SRAD05,pv,pv,3200,0,symptomatic,Pv,30,1,3,Infectious,27,>= 15 years,Male,40,Yes,,Adama,Surafel,40,3.333333333,Male,2
+204,SRAD06,pv,pv,7223,0,symptomatic,Pv,35,0,0,Non infectious,28,>= 15 years,Male,40,Yes,,Adama,Surafel,40,0,Male,2
+205,SRAD07,pv,pv,10076,146,symptomatic,Pv,34,31,91,Infectious,38,>= 15 years,Female,36.5,No,,Adama,Surafel,36.5,91.17647059,Female,2
+206,SRAD08,pv,pv,1631,0,symptomatic,Pv,30,0,0,Non infectious,40,>= 15 years,Female,36,No,,Adama,Surafel,36,0,Female,2
+207,SRAD09,pv,pv,663,259,symptomatic,Pv,30,6,20,Infectious,19,>= 15 years,Male,38.2,Yes,,Adama,Surafel,38.2,20,Male,2
+208,SRAD10,pv,pv,2196,0,symptomatic,Mixed,29,9,31,Infectious,30,>= 15 years,Male,37.9,Yes,,Adama,Surafel,37.9,31.03448276,Male,2
+209,SRAD11,pv,pv,3841,0,symptomatic,Pv,30,2,7,Infectious,26,>= 15 years,Male,32.2,No,,Adama,Surafel,32.2,6.666666667,Male,2
+210,SRAD12,pfpv,pfpv,533,0,symptomatic,Pv,36,9,25,Infectious,33,>= 15 years,Male,39.2,Yes,,Adama,Surafel,39.2,25,Male,2
+211,SRAD13,pv,pv,27243,0,symptomatic,Pv,30,28,93,Infectious,19,>= 15 years,Male,35.7,No,,Adama,Surafel,35.7,93.33333333,Male,2
+212,SRAD14,pv,pv,9393,0,symptomatic,Pv,30,16,53,Infectious,28,>= 15 years,Male,37.1,No,,Adama,Surafel,37.1,53.33333333,Male,2
+213,SRAD15,pv,pv,11356,0,symptomatic,Pv,30,13,43,Infectious,8,< 15 years,Female,,No,,Adama,Surafel,,43.33333333,Female,2
+214,SRAD16,pfpv,pfpv,32585,594,symptomatic,Pv,30,17,57,Infectious,7,< 15 years,Female,37.8,Yes,,Adama,Surafel,37.8,56.66666667,Female,2
+215,SRAD17,pv,pv,20240,0,symptomatic,Pv,30,18,60,Infectious,25,>= 15 years,Male,37.1,No,,Adama,Surafel,37.1,60,Male,2
+216,SRAD18,pfpv,pfpv,18507,398,symptomatic,Mixed,30,4,13,Infectious,12,< 15 years,Male,37.1,No,,Adama,Surafel,37.1,13.33333333,Male,2
+217,SRAD19,pv,pv,1663,396,symptomatic,Pv,30,17,57,Infectious,42,>= 15 years,Male,38.6,Yes,,Adama,Surafel,38.6,56.66666667,Male,2
+218,SRAD20,pv,pv,30969,666,symptomatic,Pv,30,8,27,Infectious,20,>= 15 years,Male,37.8,Yes,,Adama,Surafel,37.8,26.66666667,Male,2
+219,SRAD21,pv,pv,8866,157,symptomatic,Pv,30,18,60,Infectious,19,>= 15 years,Male,36.3,No,,Adama,Surafel,36.3,60,Male,2
+220,SRAD22,pv,pv,5269,269,symptomatic,Pv,30,24,80,Infectious,14,< 15 years,Female,37.6,Yes,,Adama,Surafel,37.6,80,Female,2
+221,SRAD23,pv,pv,16528,603,symptomatic,Pv,30,12,40,Infectious,30,>= 15 years,Female,37.2,No,,Adama,Surafel,37.2,40,Female,2
+222,SRAD24,pv,pv,7124,0,symptomatic,Pv,30,0,0,Non infectious,27,>= 15 years,Male,38.4,Yes,,Adama,Surafel,38.4,0,Male,2
+223,SRAD25,pfpv,pfpv,13725,190,symptomatic,Pv,32,27,84,Infectious,6,< 15 years,Male,37.8,Yes,,Adama,Surafel,37.8,84.375,Male,2
+224,SRAD26,pv,pv,203,0,symptomatic,Pv,30,0,0,Non infectious,46,>= 15 years,Female,35.8,No,,Adama,Surafel,35.8,0,Female,2
+225,SRAD27,pv,pv,6368,218,symptomatic,Pv,31,26,84,Infectious,21,>= 15 years,Male,34.8,No,,Adama,Surafel,34.8,83.87096774,Male,2
+226,SRAD28,pv,pv,627,0,symptomatic,Pv,30,0,0,Non infectious,38,>= 15 years,Male,36.5,No,,Adama,Surafel,36.5,0,Male,2
+227,SRAD29,pv,pv,10224,366,symptomatic,Pv,30,22,73,Infectious,16,>= 15 years,Female,35.3,No,,Adama,Surafel,35.3,73.33333333,Female,2
+228,SRAD30,pv,pv,17029,262,symptomatic,Pv,30,0,0,Non infectious,30,>= 15 years,Male,40.3,Yes,,Adama,Surafel,40.3,0,Male,2
+229,SRAD31,pv,pv,1069,0,symptomatic,Pv,30,0,0,Non infectious,37,>= 15 years,Female,34.6,No,,Adama,Surafel,34.6,0,Female,2
+230,SRAD32,pv,pv,15960,190,symptomatic,Pv,30,0,0,Non infectious,34,>= 15 years,Male,39.3,Yes,,Adama,Surafel,39.3,0,Male,2
+231,SRAD33,pv,pv,0,475,symptomatic,Pv,30,5,17,Infectious,20,>= 15 years,Male,36.3,No,,Adama,Surafel,36.3,16.66666667,Male,2
+232,SRAD34,pv,pv,1547,0,symptomatic,Pv,30,18,60,Infectious,46,>= 15 years,Male,37.7,Yes,,Adama,Surafel,37.7,60,Male,2
+233,SRAD35,pv,pv,650,72,symptomatic,Pv,30,4,13,Infectious,40,>= 15 years,Male,37.8,Yes,,Adama,Surafel,37.8,13.33333333,Male,2
+234,SRAD36,pv,pv,4120,0,symptomatic,Pv,30,19,63,Infectious,24,>= 15 years,Male,36,No,,Adama,Surafel,36,63.33333333,Male,2
+235,SRAD37,pfpv,pfpv,16784,0,symptomatic,Pv,30,4,13,Infectious,18,>= 15 years,Male,38.5,Yes,,Adama,Surafel,38.5,13.33333333,Male,2
+236,SRAD38,pv,pv,12280,0,symptomatic,Pv,30,0,0,Non infectious,26,>= 15 years,Male,38.8,Yes,,Adama,Surafel,38.8,0,Male,2
+237,SRAD39,pv,pv,3889,290,symptomatic,Pv,30,25,83,Infectious,20,>= 15 years,Male,36.8,No,,Adama,Surafel,36.8,83.33333333,Male,2
+238,SRAD40,pv,pv,16226,0,symptomatic,Pv,30,11,37,Infectious,27,>= 15 years,Male,34.8,No,,Adama,Surafel,34.8,36.66666667,Male,2
+239,SRAD41,pv,pv,7883,0,symptomatic,Pv,30,28,93,Infectious,53,>= 15 years,Male,37.1,No,,Adama,Surafel,37.1,93.33333333,Male,2
+240,SRAD42,pv,pv,7400,267,symptomatic,Pv,30,0,0,Non infectious,22,>= 15 years,Male,35.6,No,,Adama,Surafel,35.6,0,Male,2
+241,SRAD43,pv,pv,13009,1033,symptomatic,Pv,30,28,93,Infectious,30,>= 15 years,Female,37.8,Yes,,Adama,Surafel,37.8,93.33333333,Female,2
+242,SRAD44,pv,pv,7120,827,symptomatic,Pv,30,15,50,Infectious,32,>= 15 years,Male,37.2,No,,Adama,Surafel,37.2,50,Male,2
+243,SRAD45,pv,pv,17464,600,symptomatic,Pv,30,28,93,Infectious,11,< 15 years,Female,37.6,Yes,,Adama,Surafel,37.6,93.33333333,Female,2
+244,SRAD46,pfpv,pfpv,7574,615,symptomatic,Pv,30,16,53,Infectious,15,>= 15 years,Female,37.5,Yes,,Adama,Surafel,37.5,53.33333333,Female,2
+245,SRAD47,pv,pv,8554,347,symptomatic,Pv,30,11,37,Infectious,26,>= 15 years,Male,35.6,No,,Adama,Surafel,35.6,36.66666667,Male,2
+246,SRAD48,pv,pv,3960,227,symptomatic,Pv,30,0,0,Non infectious,25,>= 15 years,Male,36.7,No,,Adama,Surafel,36.7,0,Male,2
+247,SRAD49,pv,pv,2068,0,symptomatic,Pv,30,0,0,Non infectious,31,>= 15 years,Male,37.4,No,,Adama,Surafel,37.4,0,Male,2
+248,SRAD50,pv,pv,3098,0,symptomatic,Pv,30,23,77,Infectious,40,>= 15 years,Male,35.8,No,,Adama,Surafel,35.8,76.66666667,Male,2
+249,SRAD51,pv,pv,2258,560,symptomatic,Mixed,30,14,47,Infectious,15,>= 15 years,Female,35.5,No,,Adama,Surafel,35.5,46.66666667,Female,2
+250,SRAD52,pv,pv,17795,382,symptomatic,Pv,30,12,40,Infectious,12,< 15 years,Male,38.5,Yes,,Adama,Surafel,38.5,40,Male,2
+251,SRAD53,pv,pv,8040,827,symptomatic,Pv,30,9,30,Infectious,22,>= 15 years,Male,35.3,No,,Adama,Surafel,35.3,30,Male,2
+252,SRAD54,pv,pv,392,357,symptomatic,Pv,30,12,40,Infectious,25,>= 15 years,Male,37,No,,Adama,Surafel,37,40,Male,2
+253,SRAD55,pv,pv,10706,597,symptomatic,Pv,30,29,97,Infectious,20,>= 15 years,Male,34.9,No,,Adama,Surafel,34.9,96.66666667,Male,2
+254,SRAD56,pv,pv,38461,152,symptomatic,Pv,30,18,60,Infectious,14,< 15 years,Male,38.5,Yes,,Adama,Surafel,38.5,60,Male,2
+255,SRAD57,pv,pv,13711.5,759,symptomatic,Pv,21,0,0,Non infectious,20,>= 15 years,Female,36,No,,Adama,Surafel,36,0,Female,2
+256,SRAD58,pv,pv,73072.5,1580,symptomatic,Pv,30,28,93,Infectious,30,>= 15 years,Male,38,Yes,,Adama,Surafel,38,93.33333333,Male,2
+257,SRAD60,pv,pv,2847,0,symptomatic,Pv,28,0,0,Non infectious,23,>= 15 years,Female,38,Yes,,Adama,Surafel,38,0,Female,2
+258,Sero-036,Positive,Pv,34735,0,symptomatic,pv,30,0,0,Non infectious,26,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,0,Male,1
+259,Sero-040,Positive,Pv,633,114,symptomatic,pv,30,25,83,Infectious,15,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,83.33333333,Female,1
+260,Sero-041,Positive,Pv,5080,865,symptomatic,pv,30,13,43,Infectious,13,< 15 years,Male,36,No,no,Arba Minch,INDIE,,43.33333333,Male,1
+261,Sero-042,Positive,Pv,1671,44,symptomatic,pv,32,8,25,Infectious,4,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,25,Male,1
+262,Sero-043,Positive,Pv,256,24,symptomatic,pv,30,0,0,Non infectious,12,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+263,Sero-044,Positive,Pv,480,114,symptomatic,pv,29,14,48,Infectious,14,< 15 years,Male,36,No,no,Arba Minch,INDIE,,48.27586207,Male,1
+264,Sero-045,Positive,Pv,2000,313,symptomatic,pv,33,20,61,Infectious,32,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,60.60606061,Male,1
+265,Sero-047,Positive,Pv,142,45,symptomatic,pv,30,20,67,Infectious,18,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,66.66666667,Male,1
+266,Sero-048,Positive,Pv,3120,112,symptomatic,pv,30,17,57,Infectious,15,>= 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,56.66666667,Male,1
+267,Sero-049,Positive,Pv,2560,235,symptomatic,pv,33,28,85,Infectious,20,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,84.84848485,Male,1
+268,Sero-050,Positive,Pv,3562,655,symptomatic,pv,30,17,57,Infectious,20,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,56.66666667,Female,1
+269,Sero-051,Positive,Pv,4521,125,symptomatic,pv,34,4,12,Infectious,20,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,11.76470588,Female,1
+270,Sero-054,Positive,Pv,112,114,symptomatic,mixed,32,5,16,Infectious,32,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,15.625,Male,1
+271,Sero-057,Positive,Pv,101,141,symptomatic,pv,32,0,0,Non infectious,11,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+272,Sero-058,Positive,Pv,143,152,symptomatic,pv,30,0,0,Non infectious,9,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+273,Sero-061,Positive,mixed,1244,455,symptomatic,mixed,30,6,20,Infectious,6,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,20,Female,1
+275,Sero-078,Positive,Pv,16,0,symptomatic,pv,30,11,37,Infectious,50,>= 15 years,Male,35,No,no,Arba Minch,INDIE,,36.66666667,Male,1
+276,Sero-079,Positive,Pv,80,11,symptomatic,pv,30,22,73,Infectious,53,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,73.33333333,Male,1
+277,Sero-080,Positive,Pv,80,235,symptomatic,pv,30,5,17,Infectious,15,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,16.66666667,Male,1
+278,Sero-081,Positive,Pv,32,124,symptomatic,pv,30,8,27,Infectious,13,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,26.66666667,Female,1
+279,Sero-082,Positive,Pv,320,112,symptomatic,pv,30,24,80,Infectious,18,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,80,Male,1
+280,Sero-083,Positive,Pv,1000,325,symptomatic,pv,31,3,10,Infectious,16,>= 15 years,Male,35,No,no,Arba Minch,INDIE,,9.677419355,Male,1
+281,Sero-084,Positive,Pv,1244,124,symptomatic,pv,33,0,0,Non infectious,15,>= 15 years,Male,35,No,no,Arba Minch,INDIE,,0,Male,1
+282,Sero-085,Positive,Pv,400,351,symptomatic,pv,22,9,41,Infectious,20,>= 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,40.90909091,Male,1
+283,Sero-086,Positive,Pv,20800,55,symptomatic,pv,30,25,83,Infectious,7,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,83.33333333,Male,1
+284,Sero-087,Positive,Pv,360,254,symptomatic,pv,31,0,0,Non infectious,14,< 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,0,Female,1
+285,Sero-088,Positive,Pv,64,124,symptomatic,pv,19,0,0,Non infectious,18,>= 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,0,Female,1
+286,Sero-091,Positive,mixed,64,654,symptomatic,mixed,30,8,27,Infectious,18,>= 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,26.66666667,Male,1
+287,Sero-092,Positive,Pv,1592,456,symptomatic,pv,30,29,97,Infectious,18,>= 15 years,Male,35,No,no,Arba Minch,INDIE,,96.66666667,Male,1
+288,Sero-095,Positive,Pv,120,526,symptomatic,pv,30,5,17,Infectious,11,< 15 years,Male,37,No,no,Arba Minch,INDIE,,16.66666667,Male,1
+289,Sero-096,Positive,Pv,421,654,symptomatic,pv,26,0,0,Non infectious,50,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,0,Female,1
+290,Sero-097,Positive,Pv,80,325,symptomatic,pv,29,3,10,Infectious,11,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,10.34482759,Male,1
+292,Sero-100,Positive,Pv,2552,231,symptomatic,pv,31,15,48,Infectious,5,< 15 years,Male,37,No,no,Arba Minch,INDIE,,48.38709677,Male,1
+293,Sero-102,Positive,Pv,5280,325,symptomatic,pv,30,17,57,Infectious,10,< 15 years,Male,36,No,no,Arba Minch,INDIE,,56.66666667,Male,1
+294,Sero-103,Positive,Pv,520,125,symptomatic,pv,30,19,63,Infectious,38,>= 15 years,Male,35,No,no,Arba Minch,INDIE,,63.33333333,Male,1
+295,Sero-104,Positive,Pv,4080,325,symptomatic,pv,30,0,0,Non infectious,7,< 15 years,Female,35,No,no,Arba Minch,INDIE,,0,Female,1
+296,Sero-106,Positive,Pv,1280,325,symptomatic,pv,30,20,67,Infectious,20,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,66.66666667,Male,1
+297,Sero-107,Positive,Pv,1080,65,symptomatic,pv,32,23,72,Infectious,18,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,71.875,Female,1
+299,Sero-109,Positive,Pv,1393,256,symptomatic,pv,32,0,0,Non infectious,8,< 15 years,Female,40,Yes,yes,Arba Minch,INDIE,,0,Female,1
+300,Sero-110,Positive,Pv,3320,221,symptomatic,pv,31,11,36,Infectious,15,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,35.48387097,Male,1
+301,Sero-111,Positive,Pv,920,352,symptomatic,pv,32,12,38,Infectious,8,< 15 years,Male,37,No,no,Arba Minch,INDIE,,37.5,Male,1
+302,Sero-112,Positive,Pv,48,544,symptomatic,pv,31,0,0,Non infectious,8,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+303,Sero-113,Positive,Pv,31,365,symptomatic,pv,30,0,0,Non infectious,10,< 15 years,Female,36,No,no,Arba Minch,INDIE,,0,Female,1
+304,Sero-114,Positive,Pv,48,565,symptomatic,pv,30,0,0,Non infectious,56,>= 15 years,Male,35,No,no,Arba Minch,INDIE,,0,Male,1
+305,Sero-115,Positive,Pv,24554,551,symptomatic,pv,32,12,38,Infectious,16,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,37.5,Female,1
+306,Sero-117,Positive,Pv,80,655,symptomatic,pv,32,6,19,Infectious,30,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,18.75,Male,1
+307,Sero-118,Positive,Pv,448,546,symptomatic,pv,31,17,55,Infectious,11,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,54.83870968,Male,1
+308,Sero-121,Positive,Pv,560,562,symptomatic,pv,30,9,30,Infectious,6,< 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,30,Male,1
+309,Sero-124,Positive,Pv,240,124,symptomatic,pv,30,13,43,Infectious,20,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,43.33333333,Male,1
+310,Sero-125,Positive,Pv,880,455,symptomatic,pv,32,21,66,Infectious,35,>= 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,65.625,Female,1
+311,Sero-127,Positive,Pv,1742,61,symptomatic,pv,23,5,22,Infectious,10,< 15 years,Female,40,Yes,yes,Arba Minch,INDIE,,21.73913043,Female,1
+312,Sero-128,Positive,Pv,880,45,symptomatic,pv,30,22,73,Infectious,12,< 15 years,Female,37,No,no,Arba Minch,INDIE,,73.33333333,Female,1
+313,Sero-129,Positive,Pv,1800,543,symptomatic,mixed,38,0,0,Non infectious,10,< 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,0,Male,1
+314,Sero-130,Positive,Pv,1160,4,symptomatic,pv,28,5,18,Infectious,7,< 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,17.85714286,Male,1
+315,Sero-131,Positive,Pv,8636,477,symptomatic,pv,18,0,0,Non infectious,13,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+316,Sero-133,Positive,Pv,5867,55,symptomatic,pv,30,22,73,Infectious,30,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,73.33333333,Male,1
+317,Sero-134,Positive,Pv,2444,325,symptomatic,pv,30,21,70,Infectious,19,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,70,Male,1
+318,Sero-136,Positive,Pv,4474,6351,symptomatic,pv,31,0,0,Non infectious,30,>= 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,0,Female,1
+319,Sero-137,Positive,Pv,1760,5411,symptomatic,pv,31,0,0,Non infectious,12,< 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,0,Female,1
+320,Sero-138,Positive,Pv,48,55,symptomatic,pv,32,0,0,Non infectious,21,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,0,Female,1
+321,Sero-139,Positive,Pv,9680,562,symptomatic,pv,31,18,58,Infectious,7,< 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,58.06451613,Male,1
+322,Sero-140,Positive,Pv,7575,653,symptomatic,pv,30,9,30,Infectious,13,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,30,Male,1
+323,Sero-141,Positive,Pv,1800,54,symptomatic,pv,30,0,0,Non infectious,12,< 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,0,Male,1
+324,Sero-148,Positive,Pv,1520,0,symptomatic,pv,30,7,23,Infectious,16,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,23.33333333,Male,1
+325,Sero-149,Positive,Pv,4545,111,symptomatic,pv,24,0,0,Non infectious,14,< 15 years,Male,37,No,no,Arba Minch,INDIE,,0,Male,1
+326,Sero-154,Positive,Pv,15442,398,symptomatic,pv,30,8,27,Infectious,13,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,26.66666667,Male,1
+327,Sero-155,Positive,Pv,3080,0,symptomatic,pv,30,0,0,Non infectious,20,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,0,Male,1
+328,Sero-156,Positive,Pv,21850,597,symptomatic,pv,30,7,23,Infectious,6,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,23.33333333,Male,1
+329,Sero-159,Positive,Pv,4668,215,symptomatic,pv,31,2,7,Infectious,9,< 15 years,Female,37,No,no,Arba Minch,INDIE,,6.451612903,Female,1
+330,Sero-160,Positive,Pv,47,0,symptomatic,pv,30,0,0,Non infectious,37,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+331,Sero-161,Positive,Pv,5611,0,symptomatic,pv,30,2,7,Infectious,11,< 15 years,Female,37,No,no,Arba Minch,INDIE,,6.666666667,Female,1
+332,Sero-162,Positive,Pv,4245,352,symptomatic,pv,32,11,34,Infectious,8,< 15 years,Male,37,No,no,Arba Minch,INDIE,,34.375,Male,1
+333,Sero-163,Positive,Pv,464575,155,symptomatic,pv,26,3,12,Infectious,10,< 15 years,Male,37,No,no,Arba Minch,INDIE,,11.53846154,Male,1
+334,Sero-170,Positive,Pv,2040,0,symptomatic,pv,30,7,23,Infectious,26,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,23.33333333,Male,1
+335,Sero-171,Positive,Pv,901,0,symptomatic,pv,30,0,0,Non infectious,10,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+336,Sero-172,Positive,Pv,4554,545,symptomatic,pv,32,3,9,Infectious,9,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,9.375,Male,1
+337,Sero-173,Positive,Pv,6297,118,symptomatic,pv,30,19,63,Infectious,19,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,63.33333333,Male,1
+338,Sero-174,Positive,Pv,1360,154,symptomatic,pv,30,0,0,Non infectious,14,< 15 years,Male,37,No,no,Arba Minch,INDIE,,0,Male,1
+339,Sero-175,Positive,Pv,1120,0,symptomatic,pv,32,0,0,Non infectious,18,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,0,Male,1
+340,Sero-176,Positive,Pv,1155,0,symptomatic,pv,30,6,20,Infectious,11,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,20,Male,1
+341,Sero-177,Positive,Pv,5454,512,symptomatic,pv,30,6,20,Infectious,5,< 15 years,Male,37,No,no,Arba Minch,INDIE,,20,Male,1
+342,Sero-178,Positive,Pv,7882,0,symptomatic,pv,33,0,0,Non infectious,7,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,0,Female,1
+343,Sero-179,Positive,Pv,2242,0,symptomatic,pv,30,0,0,Non infectious,9,< 15 years,Male,37,No,no,Arba Minch,INDIE,,0,Male,1
+344,Sero-180,Positive,Pv,4544,235,symptomatic,pv,30,15,50,Infectious,16,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,50,Male,1
+345,Sero-181,Positive,Pv,520,0,symptomatic,pv,32,0,0,Non infectious,14,< 15 years,Male,37,No,no,Arba Minch,INDIE,,0,Male,1
+346,Sero-182,Positive,Pv,2560,6266,symptomatic,pv,28,0,0,Non infectious,15,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+347,Sero-183,Positive,Pv,776,22,symptomatic,pv,31,2,7,Infectious,12,< 15 years,Female,35,No,no,Arba Minch,INDIE,,6.451612903,Female,1
+348,Sero-184,Positive,Pv,936,0,symptomatic,pv,31,13,42,Infectious,25,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,41.93548387,Male,1
+349,Sero-185,Positive,Pv,41980,1525,symptomatic,pv,31,3,10,Infectious,12,< 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,9.677419355,Male,1
+350,Sero-186,Positive,Pv,15080,415,symptomatic,pv,30,15,50,Infectious,16,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,50,Male,1
+351,Sero-187,Positive,Pv,396,321,symptomatic,pv,34,14,41,Infectious,17,>= 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,41.17647059,Female,1
+352,Sero-188,Positive,Pv,13358,0,symptomatic,pv,33,0,0,Non infectious,7,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+353,Sero-189,Positive,Pv,3200,545,symptomatic,pv,31,10,32,Infectious,25,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,32.25806452,Female,1
+354,Sero-190,Positive,Pv,5782,0,symptomatic,pv,34,8,24,Infectious,15,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,23.52941176,Male,1
+355,Sero-191,Positive,Pv,8557,366,symptomatic,pv,31,17,55,Infectious,17,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,54.83870968,Female,1
+356,Sero-192,Positive,Pv,6297,35,symptomatic,pv,32,13,41,Infectious,18,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,40.625,Male,1
+357,Sero-193,Positive,Pv,1640,0,symptomatic,pv,31,0,0,Non infectious,16,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,0,Female,1
+358,Sero-194,Positive,Pv,609,238,symptomatic,mixed,31,0,0,Non infectious,13,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+359,Sero-195,Positive,Pv,4417,211,symptomatic,pv,30,9,30,Infectious,10,< 15 years,Male,36,No,no,Arba Minch,INDIE,,30,Male,1
+360,Sero-196,Positive,Pv,6660,564,symptomatic,pv,30,23,77,Infectious,14,< 15 years,Male,36,No,no,Arba Minch,INDIE,,76.66666667,Male,1
+361,Sero-197,Positive,Pv,6884,346,symptomatic,pv,34,28,82,Infectious,18,>= 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,82.35294118,Female,1
+362,Sero-198,Positive,Pv,5560,256,symptomatic,pv,32,16,50,Infectious,7,< 15 years,Male,36,No,no,Arba Minch,INDIE,,50,Male,1
+363,Sero-199,Positive,Pv,79,0,symptomatic,mixed,32,1,3,Infectious,24,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,3.125,Female,1
+364,Sero-201,Positive,Pv,13771,477,symptomatic,pv,32,10,31,Infectious,7,< 15 years,Female,34,No,no,Arba Minch,INDIE,,31.25,Female,1
+365,Sero-202,Positive,Pv,21234,0,symptomatic,pv,30,8,27,Infectious,10,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,26.66666667,Male,1
+367,Sero-204,Positive,Pv,3360,0,symptomatic,pv,30,0,0,Non infectious,12,< 15 years,Male,37,No,no,Arba Minch,INDIE,,0,Male,1
+368,Sero-205,Positive,Pv,31,0,symptomatic,mixed,31,0,0,Non infectious,18,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,0,Male,1
+370,Sero-207,Positive,Pv,594,451,symptomatic,pv,32,16,50,Infectious,35,>= 15 years,Female,35,No,no,Arba Minch,INDIE,,50,Female,1
+371,Sero-208,Positive,Pv,1342,0,symptomatic,pv,32,8,25,Infectious,19,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,25,Male,1
+372,Sero-209,Positive,Pv,1176,0,symptomatic,pv,32,9,28,Infectious,11,< 15 years,Male,37,No,no,Arba Minch,INDIE,,28.125,Male,1
+373,Sero-210,Positive,Pv,53653,0,symptomatic,pv,30,0,0,Non infectious,11,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,0,Female,1
+374,Sero-211,Positive,Pv,1672,254,symptomatic,pv,30,28,93,Infectious,10,< 15 years,Female,37,No,no,Arba Minch,INDIE,,93.33333333,Female,1
+375,Sero-212,Positive,Pv,1739,124,symptomatic,pv,32,31,97,Infectious,8,< 15 years,Male,37,No,no,Arba Minch,INDIE,,96.875,Male,1
+376,Sero-213,Positive,Pv,78,0,symptomatic,pv,33,1,3,Infectious,10,< 15 years,Male,36,No,no,Arba Minch,INDIE,,3.03030303,Male,1
+377,Sero-214,Positive,Pv,7527,542,symptomatic,pv,31,27,87,Infectious,10,< 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,87.09677419,Female,1
+378,Sero-215,Positive,Pv,32,12,symptomatic,pv,32,27,84,Infectious,11,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,84.375,Male,1
+379,Sero-216,Positive,Pv,3111,315,symptomatic,pv,29,26,90,Infectious,11,< 15 years,Female,36,No,no,Arba Minch,INDIE,,89.65517241,Female,1
+380,Sero-217,Positive,Pv,10400,5642,symptomatic,pv,30,29,97,Infectious,16,>= 15 years,Female,35,No,no,Arba Minch,INDIE,,96.66666667,Female,1
+381,Sero-218,Positive,Pv,1512,124,symptomatic,pv,31,14,45,Infectious,15,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,45.16129032,Female,1
+382,Sero-219,Positive,Pv,130,23,symptomatic,pv,30,29,97,Infectious,30,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,96.66666667,Female,1
+383,Sero-220,Positive,Pv,12019,0,symptomatic,pv,32,0,0,Non infectious,8,< 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,0,Male,1
+384,Sero-221,Positive,Pv,31,0,symptomatic,pv,32,4,13,Infectious,40,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,12.5,Female,1
+385,Sero-222,Positive,Pv,21157,4554,symptomatic,pv,31,20,65,Infectious,13,< 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,64.51612903,Male,1
+386,Sero-225,Positive,Pv,63,0,symptomatic,pv,30,16,53,Infectious,34,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,53.33333333,Male,1
+387,Sero-226,Positive,Pv,2666,32,symptomatic,pv,30,23,77,Infectious,15,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,76.66666667,Male,1
+388,Sero-227,Positive,Pv,862,152,symptomatic,pv,30,20,67,Infectious,40,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,66.66666667,Male,1
+390,Sero-229,Positive,Pv,17280,0,symptomatic,pv,32,4,13,Infectious,12,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,12.5,Male,1
+391,Sero-230,Positive,Pv,63525,554,symptomatic,pv,31,27,87,Infectious,10,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,87.09677419,Female,1
+392,Sero-231,Positive,Pv,1669,0,symptomatic,pv,31,8,26,Infectious,15,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,25.80645161,Female,1
+393,Sero-232,Positive,Pv,2912,0,symptomatic,pv,30,0,0,Non infectious,15,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+394,Sero-233,Positive,Pv,32128,320,symptomatic,pv,36,0,0,Non infectious,13,< 15 years,Male,41,Yes,yes,Arba Minch,INDIE,,0,Male,1
+395,Sero-234,Positive,Pv,9717,555,symptomatic,pv,34,25,74,Infectious,10,< 15 years,Male,35,No,no,Arba Minch,INDIE,,73.52941176,Male,1
+396,Sero-235,Positive,Pv,5438,655,symptomatic,pv,34,26,77,Infectious,14,< 15 years,Male,37,No,no,Arba Minch,INDIE,,76.47058824,Male,1
+397,Sero-236,Positive,Pv,310,44,symptomatic,mixed,30,21,70,Infectious,18,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,70,Female,1
+398,Sero-237,Positive,mixed,57052,0,symptomatic,pv,34,7,21,Infectious,8,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,20.58823529,Male,1
+399,Sero-238,Positive,Pv,546,0,symptomatic,pv,37,0,0,Non infectious,18,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,0,Female,1
+400,Sero-239,Positive,Pv,10827,278,symptomatic,pv,31,19,61,Infectious,15,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,61.29032258,Female,1
+401,Sero-240,Positive,Pv,18626,159,symptomatic,pv,32,0,0,Non infectious,14,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+402,Sero-241,Positive,Pv,1568,0,symptomatic,pv,32,0,0,Non infectious,30,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+403,Sero-242,Positive,Pv,2975,0,symptomatic,pv,37,0,0,Non infectious,20,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+404,Sero-243,Positive,Pv,8310,427,symptomatic,pv,30,11,37,Infectious,6,< 15 years,Female,37,No,no,Arba Minch,INDIE,,36.66666667,Female,1
+405,Sero-244,Positive,Pv,688,0,symptomatic,pv,31,0,0,Non infectious,13,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+406,Sero-245,Positive,Pv,12768,236,symptomatic,pv,32,6,19,Infectious,9,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,18.75,Male,1
+407,Sero-246,Positive,Pv,1046,448,symptomatic,pv,30,4,13,Infectious,10,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,13.33333333,Female,1
+408,Sero-247,Positive,Pv,872,124,symptomatic,pv,31,12,39,Infectious,15,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,38.70967742,Female,1
+409,Sero-248,Positive,Pv,4077,0,symptomatic,pv,31,0,0,Non infectious,12,< 15 years,Male,37,No,no,Arba Minch,INDIE,,0,Male,1
+410,Sero-249,Positive,Pv,6879,0,symptomatic,pv,30,0,0,Non infectious,15,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,0,Female,1
+411,Sero-250,Positive,Pv,30255,656,symptomatic,pv,38,33,87,Infectious,12,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,86.84210526,Female,1
+412,Sero-251,Positive,Pv,235,0,symptomatic,pv,32,0,0,Non infectious,10,< 15 years,Female,36,No,no,Arba Minch,INDIE,,0,Female,1
+413,Sero-252,Positive,Pv,6862,544,symptomatic,pv,30,27,90,Infectious,32,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,90,Female,1
+414,Sero-253,Positive,Pv,2325,0,symptomatic,mixed,31,0,0,Non infectious,13,< 15 years,Female,37,No,no,Arba Minch,INDIE,,0,Female,1
+415,Sero-254,Positive,Pv,27542,278,symptomatic,pv,32,20,63,Infectious,10,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,62.5,Female,1
+416,Sero-255,Positive,mixed,18600,0,symptomatic,mixed,34,0,0,Non infectious,14,< 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,0,Male,1
+417,Sero-256,Positive,Pv,3113,324,symptomatic,pv,34,18,53,Infectious,18,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,52.94117647,Female,1
+418,Sero-257,Positive,Pv,5257,0,symptomatic,pv,34,0,0,Non infectious,11,< 15 years,Female,37,No,no,Arba Minch,INDIE,,0,Female,1
+419,Sero-258,Positive,Pv,40895,653,symptomatic,pv,30,10,33,Infectious,12,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,33.33333333,Male,1
+420,Sero-259,Positive,Pv,5452,564,symptomatic,pv,34,11,32,Infectious,19,>= 15 years,Female,40,Yes,yes,Arba Minch,INDIE,,32.35294118,Female,1
+421,Sero-260,Positive,Pv,472,12,symptomatic,pv,30,23,77,Infectious,27,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,76.66666667,Female,1
+422,Sero-261,Positive,Pv,12000,543,symptomatic,pv,30,10,33,Infectious,10,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,33.33333333,Male,1
+423,Sero-262,Positive,Pv,1108,235,symptomatic,pv,32,21,66,Infectious,6,< 15 years,Female,37,No,no,Arba Minch,INDIE,,65.625,Female,1
+424,Sero-263,Positive,Pv,9568,666,symptomatic,pv,30,26,87,Infectious,18,>= 15 years,Male,34,No,no,Arba Minch,INDIE,,86.66666667,Male,1
+425,Sero-264,Positive,Pv,3317,215,symptomatic,pv,32,21,66,Infectious,26,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,65.625,Female,1
+426,Sero-265,Positive,Pv,4435,158,symptomatic,pv,32,29,91,Infectious,35,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,90.625,Male,1
+427,Sero-266,Positive,Pv,1240,0,symptomatic,pv,30,0,0,Non infectious,13,< 15 years,Male,36,No,no,Arba Minch,INDIE,,0,Male,1
+428,Sero-267,Positive,Pv,1236,0,symptomatic,pv,30,0,0,Non infectious,18,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+429,Sero-268,Positive,Pv,4487,245,symptomatic,pv,30,18,60,Infectious,12,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,60,Male,1
+430,Sero-269,Positive,Pv,11480,445,symptomatic,pv,31,15,48,Infectious,19,>= 15 years,Male,40,Yes,yes,Arba Minch,INDIE,,48.38709677,Male,1
+431,Sero-270,Positive,Pv,12729,197,symptomatic,pv,30,3,10,Infectious,10,< 15 years,Female,36,No,no,Arba Minch,INDIE,,10,Female,1
+432,Sero-271,Positive,Pv,27287,695,symptomatic,pv,33,32,97,Infectious,11,< 15 years,Female,37,No,no,Arba Minch,INDIE,,96.96969697,Female,1
+433,Sero-272,Positive,Pv,5535,4623,symptomatic,pv,30,23,77,Infectious,22,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,76.66666667,Female,1
+434,Sero-273,Positive,Pv,1115,124,symptomatic,pv,30,21,70,Infectious,14,< 15 years,Male,36,No,no,Arba Minch,INDIE,,70,Male,1
+435,Sero-274,Positive,Pv,2217,0,symptomatic,pv,32,9,28,Infectious,12,< 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,28.125,Female,1
+436,Sero-275,Positive,Pv,9154,0,symptomatic,pv,30,7,23,Infectious,10,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,23.33333333,Male,1
+437,Sero-276,Positive,Pv,10830,0,symptomatic,pv,30,0,0,Non infectious,12,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+438,Sero-277,Positive,Pv,3368,0,symptomatic,pv,30,0,0,Non infectious,12,< 15 years,Female,40,Yes,yes,Arba Minch,INDIE,,0,Female,1
+439,Sero-278,Positive,Pv,11164,544,symptomatic,pv,31,20,65,Infectious,20,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,64.51612903,Female,1
+440,Sero-279,Positive,Pv,2560,365,symptomatic,pv,30,12,40,Infectious,7,< 15 years,Male,36,No,no,Arba Minch,INDIE,,40,Male,1
+441,Sero-281,Positive,Pv,9663,0,symptomatic,pv,35,0,0,Non infectious,13,< 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,0,Female,1
+442,Sero-282,Positive,Pv,7920,0,symptomatic,pv,31,0,0,Non infectious,9,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,0,Female,1
+443,Sero-283,Positive,Pv,2322,654,symptomatic,pv,30,11,37,Infectious,30,>= 15 years,Female,40,Yes,yes,Arba Minch,INDIE,,36.66666667,Female,1
+444,Sero-284,Positive,Pv,6796,554,symptomatic,pv,30,12,40,Infectious,20,>= 15 years,Male,36,No,no,Arba Minch,INDIE,,40,Male,1
+445,Sero-285,Positive,Pv,13069,4,symptomatic,pv,30,21,70,Infectious,19,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,70,Male,1
+446,Sero-286,Positive,Pv,126,0,symptomatic,pv,30,0,0,Non infectious,12,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+447,Sero-287,Positive,Pv,2732,125,symptomatic,pv,30,22,73,Infectious,35,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,73.33333333,Male,1
+448,Sero-288,Positive,Pv,20435,5411,symptomatic,mixed,30,25,83,Infectious,22,>= 15 years,Female,40,Yes,yes,Arba Minch,INDIE,,83.33333333,Female,1
+449,Sero-289,Positive,Pv,748,65,symptomatic,pv,28,14,50,Infectious,13,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,50,Female,1
+450,Sero-290,Positive,Pv,4475,0,symptomatic,pv,32,0,0,Non infectious,18,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,0,Female,1
+452,Sero-292,Positive,Pv,2995,0,symptomatic,pv,30,1,3,Infectious,10,< 15 years,Male,37,No,no,Arba Minch,INDIE,,3.333333333,Male,1
+453,Sero-293,Positive,Pv,753,0,symptomatic,mixed,30,6,20,Infectious,12,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,20,Male,1
+454,Sero-294,Positive,Pv,4320,0,symptomatic,pv,30,3,10,Infectious,15,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,10,Male,1
+455,Sero-295,Positive,Pv,3287,0,symptomatic,pv,30,9,30,Infectious,25,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,30,Female,1
+456,Sero-296,Positive,Pv,4078,0,symptomatic,mixed,29,2,7,Infectious,12,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,6.896551724,Male,1
+457,Sero-297,Positive,Pv,6454,811,symptomatic,pv,30,19,63,Infectious,10,< 15 years,Male,37,No,no,Arba Minch,INDIE,,63.33333333,Male,1
+458,Sero-298,Positive,Pv,6226,394,symptomatic,pv,30,10,33,Infectious,6,< 15 years,Male,37,No,no,Arba Minch,INDIE,,33.33333333,Male,1
+459,Sero-299,Positive,Pv,29317,292,symptomatic,pv,30,5,17,Infectious,18,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,16.66666667,Male,1
+460,Sero-300,Positive,Pv,14320,0,symptomatic,pv,32,8,25,Infectious,11,< 15 years,Female,37,No,no,Arba Minch,INDIE,,25,Female,1
+461,Sero-301,Positive,Pv,13115,4,symptomatic,pv,30,14,47,Infectious,40,>= 15 years,Female,37,No,no,Arba Minch,INDIE,,46.66666667,Female,1
+462,Sero-302,Positive,Pv,4295,365,symptomatic,pv,30,10,33,Infectious,25,>= 15 years,Female,40,Yes,yes,Arba Minch,INDIE,,33.33333333,Female,1
+463,Sero-303,Positive,Pv,29388,277,symptomatic,pv,30,8,27,Infectious,13,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,26.66666667,Male,1
+464,Sero-304,Positive,Pv,13846,115,symptomatic,pv,29,1,3,Infectious,25,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,3.448275862,Male,1
+465,Sero-305,Positive,Pv,1560,78,symptomatic,pv,32,9,28,Infectious,10,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,28.125,Male,1
+466,Sero-306,Positive,Pv,2217,237,symptomatic,pv,28,2,7,Infectious,14,< 15 years,Female,37,No,no,Arba Minch,INDIE,,7.142857143,Female,1
+467,Sero-307,Positive,Pv,888,154,symptomatic,pv,29,4,14,Infectious,11,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,13.79310345,Male,1
+468,Sero-308,Positive,Pv,10230,247,symptomatic,pv,30,8,27,Infectious,35,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,26.66666667,Male,1
+469,Sero-309,Positive,Pv,1627,656,symptomatic,pv,30,15,50,Infectious,18,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,50,Male,1
+470,Sero-310,Positive,Pv,1358,188,symptomatic,pv,30,2,7,Infectious,11,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,6.666666667,Male,1
+471,Sero-311,Positive,Pv,2415,79,symptomatic,pv,30,2,7,Infectious,9,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,6.666666667,Male,1
+472,Sero-312,Positive,Pv,23324,0,symptomatic,pv,29,3,10,Infectious,50,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,10.34482759,Female,1
+473,Sero-313,Positive,Pv,258,0,symptomatic,pv,30,0,0,Non infectious,20,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,0,Female,1
+474,Sero-314,Positive,Pv,7725,980,symptomatic,mixed,30,2,7,Infectious,14,< 15 years,Male,37,No,no,Arba Minch,INDIE,,6.666666667,Male,1
+475,Sero-315,Positive,Pv,6935,197,symptomatic,pv,30,27,90,Infectious,15,>= 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,90,Female,1
+476,Sero-316,Positive,Pv,24554,0,symptomatic,pv,30,5,17,Infectious,14,< 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,16.66666667,Male,1
+477,Sero-317,Positive,Pv,1032,0,symptomatic,pv,26,8,31,Infectious,12,< 15 years,Male,36,No,no,Arba Minch,INDIE,,30.76923077,Male,1
+478,Sero-318,Positive,Pv,3588,74,symptomatic,pv,30,2,7,Infectious,7,< 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,6.666666667,Male,1
+479,Sero-320,Positive,Pv,353,0,symptomatic,pv,26,1,4,Infectious,22,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,3.846153846,Male,1
+480,Sero-321,Positive,Pv,7164,199,symptomatic,pv,30,0,0,Non infectious,10,< 15 years,Male,36,No,no,Arba Minch,INDIE,,0,Male,1
+481,Sero-322,Positive,Pv,9074,481,symptomatic,pv,29,1,3,Infectious,17,>= 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,3.448275862,Female,1
+482,Sero-323,Positive,Pv,1244,0,symptomatic,mixed,30,0,0,Non infectious,61,>= 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,0,Female,1
+483,Sero-324,Positive,Pv,472,0,symptomatic,pv,30,0,0,Non infectious,17,>= 15 years,Male,38,Yes,yes,Arba Minch,INDIE,,0,Male,1
+484,Sero-325,Positive,Pv,11339,466,symptomatic,pv,30,22,73,Infectious,50,>= 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,73.33333333,Female,1
+485,Sero-326,Positive,Pv,29605,583,symptomatic,pv,28,2,7,Infectious,30,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,7.142857143,Female,1
+486,Sero-328,Positive,Pv,17516,530,symptomatic,pv,32,19,59,Infectious,18,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,59.375,Male,1
+487,Sero-329,Positive,Pv,712,0,symptomatic,pv,29,0,0,Non infectious,15,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+488,Sero-330,Positive,Pv,1640,200,symptomatic,pv,30,0,0,Non infectious,24,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,0,Male,1
+489,Sero-331,Positive,Pv,1432,159,symptomatic,pv,30,6,20,Infectious,12,< 15 years,Female,37,No,no,Arba Minch,INDIE,,20,Female,1
+490,Sero-332,Positive,Pv,4244,0,symptomatic,pv,29,0,0,Non infectious,14,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,0,Female,1
+491,Sero-333,Positive,Pv,4307,0,symptomatic,pv,30,0,0,Non infectious,19,>= 15 years,Female,36,No,no,Arba Minch,INDIE,,0,Female,1
+492,Sero-334,Positive,Pv,334,0,symptomatic,mixed,29,0,0,Non infectious,18,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+493,Sero-335,Positive,Pv,9353,238,symptomatic,pv,30,0,0,Non infectious,15,>= 15 years,Male,39,Yes,yes,Arba Minch,INDIE,,0,Male,1
+494,Sero-336,Positive,Pv,372,0,symptomatic,pv,30,0,0,Non infectious,24,>= 15 years,Male,37,No,no,Arba Minch,INDIE,,0,Male,1
+495,Sero-337,Positive,Pv,835,0,symptomatic,pv,28,8,29,Infectious,12,< 15 years,Female,37,No,no,Arba Minch,INDIE,,28.57142857,Female,1
+496,Sero-338,Positive,Pv,2512,115,symptomatic,pv,29,15,52,Infectious,14,< 15 years,Female,38,Yes,yes,Arba Minch,INDIE,,51.72413793,Female,1
+497,Sero-339,Positive,Pv,1244,651,symptomatic,pv,25,15,60,Infectious,19,>= 15 years,Female,39,Yes,yes,Arba Minch,INDIE,,60,Female,1
